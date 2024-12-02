@@ -1,0 +1,2565 @@
+Text,Intent
+Light up the living room.,light_on
+Can you brighten this place up?,light_on
+"Turn on the kitchen lights, please.",light_on
+I need more light in the hallway.,light_on
+Let there be light!,light_on
+Shine some light on the dining room.,light_on
+Get the lights going in the bathroom.,light_on
+Time to turn on the lights in the study.,light_on
+"Hey, can you switch on the lamp on the nightstand?",light_on
+Switch on the overhead light in the bedroom.,light_on
+Illuminate the path to the front door.,light_on
+Give me some light in this corner.,light_on
+Could you make it a bit brighter here?,light_on
+I'm having trouble seeing.,light_on
+I need some light to read.,light_on
+Turn on the lamps in the living room.,light_on
+I want to see better.,light_on
+"Make the bedroom brighter, please.",light_on
+Can you turn on the lights for me?,light_on
+It's getting dark.,light_off
+"Turn on the light, please.",light_on
+I need some illumination in the garage.,light_on
+Could you turn on the porch lights?,light_on
+Make it brighter in the kitchen.,light_on
+Turn on the lights over the sink.,light_on
+I'm going to need some light in here.,light_on
+Can you turn on the reading lights?,light_on
+It's too dark to see.,light_on
+Time to brighten this room up.,light_on
+Can you activate the lights in the basement?,light_on
+Switch on the lights in the closet.,light_on
+I need some light over here.,light_on
+Could you illuminate the hallway for me?,light_on
+Turn on the lights in the guest room.,light_on
+Let's get some light in here.,light_on
+I'd like to see better in the den.,light_on
+Activate the lights in the library.,light_on
+Turn on the lights in the game room.,light_on
+I need more light to work.,light_on
+Can you switch on the lights in the laundry room?,light_on
+Turn on the lights in the patio.,light_on
+I want to see what I'm doing.,light_on
+"Hey, could you turn on the lights in the garage?",light_on
+Turn on the lights in the attic.,light_on
+Let's brighten up this corner.,light_on
+Could you switch on the lights in the playroom?,light_on
+I'm feeling a bit lost in the dark.,light_off
+Can you illuminate the stairwell?,light_on
+It's getting too dark to see.,light_on
+Turn off the lights in the bedroom.,light_off
+"Switch off the lights in the living room, please.",light_off
+Dim the lights in the kitchen.,light_off
+"Turn off the lights in the hallway, please.",light_off
+It's time to turn off the lights in the study.,light_off
+"Hey, can you switch off the lamp on the nightstand?",light_on
+Turn off the lights in the bathroom.,light_off
+Deactivate the overhead light in the bedroom.,light_on
+Can you dim the lights in the dining room?,light_off
+"It's bedtime, turn off the lights.",light_off
+It's too bright in here.,light_off
+Turn off the lamps in the living room.,light_off
+I'd like to turn off the lights.,light_off
+"Hey, could you switch off the lights in the garage?",light_off
+Turn off the lights in the attic.,light_off
+Could you dim the lights in the playroom?,light_off
+It's time to turn off the lights in the guest room.,light_off
+I'd like to lower the lights in the den.,light_off
+Deactivate the lights in the library.,light_on
+Turn off the lights in the game room.,light_off
+"Switch off the lights in the laundry room, please.",light_off
+Can you dim the lights in the patio?,light_off
+Turn off the lights over the sink.,light_off
+Let's dim the lights in this corner.,light_off
+Could you switch off the lights in the basement?,light_off
+It's time to shut off the lights.,light_off
+I'd like to conserve some energy.,light_on
+Let's dim the lights in the hallway.,light_off
+Could you turn off the lights in the closet?,light_off
+Can you turn off the reading lights?,light_off
+It's too bright to sleep.,light_off
+Time to dim the lights in the kitchen.,light_off
+Could you switch off the lights in the playroom?,light_off
+It's time to turn off the lights.,light_off
+I'm ready to go to sleep.,light_off
+Turn off the lights in the hallway.,light_off
+Could you dim the lights in the basement?,light_off
+I want to dim the lights in the bathroom.,light_off
+Could you turn off the lights in the garage?,light_off
+"Turn on the air conditioner, please.",ac_on
+I'm feeling a bit hot.,ac_on
+Activate the AC in the bedroom.,ac_on
+"It's warm in here, could you cool down the room?",ac_on
+Let's cool this place down.,ac_on
+Time to turn on the air conditioning.,ac_on
+Turn on the AC in the living room.,ac_on
+I want to cool down the house.,ac_on
+Could you adjust the thermostat to cool the room?,ac_on
+Make it a bit cooler in here.,ac_on
+It's getting too hot in here.,ac_on
+I need some relief from the heat.,ac_on
+Can you turn on the air conditioning?,ac_on
+It's sweltering outside.,ac_on
+"Turn on the AC in the office, please.",ac_on
+It's getting humid in here.,ac_on
+Can you activate the AC in the kitchen?,ac_on
+I want to lower the temperature in the bedroom.,ac_on
+It's getting too warm to sleep.,ac_on
+Can you adjust the thermostat?,ac_on
+I need some relief from this heat.,ac_on
+It's getting uncomfortable in here.,ac_on
+Turn on the AC unit.,ac_on
+Could you turn on the air conditioning?,ac_on
+I'm feeling too hot.,ac_on
+Make it cooler in here.,ac_on
+Activate the AC in the guest room.,ac_on
+It's too warm to work.,ac_on
+Can you cool down the house for me?,ac_on
+Turn on the air conditioning.,ac_on
+It's getting stuffy in here.,ac_on
+Let's cool down the living room.,ac_on
+Activate the AC in the study.,ac_on
+I want to cool down the basement.,ac_on
+Turn on the AC in the den.,ac_on
+It's too hot to read.,ac_on
+Can you cool down the game room?,ac_on
+Let's turn on the AC in the library.,ac_on
+"Turn off the air conditioning, please.",ac_off
+It's getting too cold in here.,ac_off
+Deactivate the AC in the bedroom.,ac_off
+I'm feeling a bit chilly.,ac_off
+Let's turn off the air conditioning.,ac_off
+Turn off the AC in the living room.,ac_off
+I want to conserve energy.,ac_off
+Could you adjust the thermostat to turn off the AC?,ac_off
+It's comfortable now.,ac_off
+"Turn off the AC in the office, please.",ac_off
+It's getting breezy outside.,ac_off
+Could you deactivate the AC in the kitchen?,ac_off
+It's time to turn off the AC in the bathroom.,ac_off
+I want to raise the temperature in the bedroom.,ac_off
+It's getting too cold to sleep.,ac_off
+It's not too hot anymore.,ac_off
+I'm feeling fine now.,ac_off
+Turn off the AC unit.,ac_off
+Could you turn off the air conditioning?,ac_off
+I'm no longer feeling too hot.,ac_off
+Make it warmer in here.,ac_off
+Deactivate the AC in the guest room.,ac_off
+It's getting cool outside.,ac_off
+I want to turn off the AC.,ac_off
+It's time to turn off the air conditioning.,ac_off
+I don't need to cool down anymore.,ac_off
+It's getting chilly in here.,ac_off
+Let's turn off the AC in the den.,ac_off
+I want to turn off the AC in the library.,ac_off
+Deactivate the AC in the game room.,ac_off
+It's time to conserve energy.,ac_off
+I'm feeling a bit cold now.,ac_off
+Turn off the air conditioning in the study.,ac_off
+I don't need to cool down the basement anymore.,ac_off
+It's getting more comfortable.,ac_off
+It's getting chilly outside.,ac_off
+"Turn on the vent, please.",vent_on
+I need some fresh air.,vent_on
+Activate the ventilation in the kitchen.,vent_on
+"It's stuffy in here, could you turn on the vent?",vent_on
+Let's circulate some air.,vent_on
+Turn on the vent in the bathroom.,vent_on
+I want to ventilate the room.,vent_on
+Could you open the vent to improve airflow?,vent_on
+Can you activate the vent in the basement?,vent_on
+It's time to turn on the vent.,vent_on
+I want to get rid of this stale air.,vent_on
+"Turn on the ventilation in the office, please.",vent_on
+Can you turn on the vent in the laundry room?,vent_on
+I need some air circulation.,vent_on
+Let's turn on the vent in the hallway.,vent_on
+Activate the vent in the study.,vent_on
+I want to ventilate the bedroom.,vent_on
+It's getting too humid in here.,vent_on
+Can you turn on the vent?,vent_on
+I need some fresh air in the den.,vent_on
+Turn on the ventilation in the guest room.,vent_on
+It's getting stuffy in the library.,vent_on
+Can you activate the vent in the playroom?,vent_on
+Let's turn on the vent in the game room.,vent_on
+I want to ventilate the attic.,vent_on
+It's getting too humid to sleep.,vent_on
+Can you turn on the vent in the garage?,vent_on
+I need some fresh air in the patio.,vent_on
+Turn on the ventilation in the basement.,vent_on
+It's getting too stuffy to work.,vent_on
+I want to ventilate the bathroom.,vent_on
+Activate the vent in the kitchen.,vent_on
+"Turn off the vent, please.",vent_off
+It's getting breezy in here.,vent_off
+Deactivate the ventilation in the kitchen.,vent_off
+I want to stop ventilating the room.,vent_off
+Let's turn off the vent.,vent_off
+Turn off the vent in the bathroom.,vent_off
+It's getting too windy in here.,vent_off
+Could you close the vent to prevent drafts?,vent_off
+I want to retain moisture in the room.,vent_off
+Deactivate the vent in the basement.,vent_off
+It's time to turn off the vent.,vent_off
+I don't need any more ventilation.,vent_off
+"Turn off the ventilation in the office, please.",vent_off
+It's getting too breezy.,vent_off
+Could you deactivate the vent in the laundry room?,vent_off
+I want to stop the air circulation.,vent_off
+Let's turn off the vent in the hallway.,vent_off
+Deactivate the vent in the study.,vent_off
+It's getting too windy outside.,vent_off
+Can you turn off the vent?,vent_off
+I want to stop ventilating the den.,vent_off
+Turn off the ventilation in the guest room.,vent_off
+It's getting too breezy in the library.,vent_off
+Can you deactivate the vent in the playroom?,vent_off
+Let's turn off the vent in the game room.,vent_off
+I want to stop ventilating the attic.,vent_off
+Can you turn off the vent in the garage?,vent_off
+I want to stop ventilating the patio.,vent_off
+Turn off the ventilation in the basement.,vent_off
+It's getting too windy to work.,vent_off
+I want to stop ventilating the bathroom.,vent_off
+Let's stop circulating air.,vent_off
+Deactivate the vent in the kitchen.,vent_off
+"Turn on the fan, please.",fan_on
+Activate the fan in the living room.,fan_on
+"It's warm in here, could you turn on the fan?",fan_on
+Let's create some airflow.,fan_on
+Turn on the fan in the bedroom.,fan_on
+I want to feel a breeze.,fan_on
+Could you adjust the fan speed to low?,fan_on
+Diverse Electric Automation Intent Commands:,fan_on
+Illuminate the hallway.,light_on
+"Turn on the lights in the kitchen, please.",light_on
+I need more light in the bathroom.,light_on
+"It's getting dark, switch on the lights.",light_on
+Can you turn on the overhead lights?,light_on
+Let's brighten up the space.,light_on
+Could you illuminate the bedroom for me?,light_on
+Time to make it brighter in here.,light_on
+"I need to see better, turn on the lights.",light_on
+Activate the lights in the guest room.,light_on
+"I can't see anything, please switch on the lights.",light_on
+"Brighten up the hallway, please.",light_on
+Make it brighter in the living room.,light_on
+"It's too dark to read, turn on the lights.",light_on
+Can you switch on the bedside lamp?,light_on
+"I'd like a little more light, please.",light_on
+Switch on the reading light.,light_on
+Turn on the lamp next to the couch.,light_on
+Could you turn on the lights in the study?,light_on
+"I'd like to see what I'm doing, can you turn on the lights?",light_on
+Make it bright enough for me to see.,light_on
+I need some light to work.,light_on
+Turn on the lamps on the coffee table.,light_on
+"It's getting difficult to see, turn on the lights.",light_on
+Can you turn on the lights in the dining room?,light_on
+"It's getting late, turn on the lights.",light_on
+"I'm having trouble seeing, switch on the lights.",light_on
+Make it bright enough to read.,light_on
+I'd like some light for the evening.,light_on
+Can you switch on the lights in the closet?,light_on
+I need some light to find things.,light_on
+"Turn on the lights in the entryway, please.",light_on
+"I need to see where I'm going, turn on the lights.",light_on
+"It's getting dark, can you switch on the lights?",light_on
+Turn on the lights in the garage.,light_on
+Make it bright enough for me to work in the garage.,light_on
+I'd like some light to see what's in the garage.,light_on
+Can you switch on the lights in the attic?,light_on
+I need to see what's up there.,light_on
+"It's dark, can you switch on the lights in the basement?",light_on
+"Turn on the porch lights, please.",light_on
+It's getting dark outside.,light_on
+Can you turn on the lights in the backyard?,light_on
+It's time to light up the patio.,light_on
+Turn on the Christmas lights.,light_on
+"It's the holidays, let's light up the house!",light_on
+Switch on the lights in the garden.,light_on
+I want to see the flowers better.,light_on
+Can you turn on the lights in the driveway?,light_on
+"I'm coming home late, can you make it brighter?",light_on
+It's time to illuminate the path.,light_on
+Please switch off the lights in the living room.,light_off
+"It's too bright, can you dim the lights?",light_off
+"Turn off the lights, it's bedtime.",light_off
+"Deactivate the lighting in the hallway, please.",light_on
+"Time to dim the lights, it's movie night.",light_off
+Can you flip the switch to turn off the kitchen lights?,light_off
+"I want to conserve energy, turn off the lights.",light_on
+"It's morning, turn off the porch lights.",light_off
+"Switch off the lights, I'm leaving the room.",light_off
+Can you turn off the lights in the dining room?,light_off
+"It's time to go to sleep, please turn off the lights.",light_off
+Make it darker in here.,light_off
+"I want to sleep, please turn off the lights.",light_off
+"Dim the lights, it's time to relax.",light_off
+"It's a little too bright, turn off the lights.",light_off
+I need to create a more calming atmosphere.,light_off
+Can you switch off the lights in the bathroom?,light_off
+"It's getting late, please switch off the lights.",light_off
+"Time to turn off the lights, it's getting late.",light_off
+"I'm ready for bed, turn off the lights.",light_off
+"It's time for bed, please turn off the lights.",light_off
+Can you turn off the lights in the study?,light_off
+"It's time to unwind, turn off the lights.",light_off
+"It's too bright for me to sleep, turn off the lights.",light_off
+"Dim the lights, please.",light_off
+"It's too bright to read, turn off the lights.",light_off
+Can you switch off the lights in the guest room?,light_off
+"It's getting late, turn off the lights in the garage.",light_off
+"I'm leaving the garage, please switch off the lights.",light_off
+"I'm going to bed, turn off the lights in the attic.",light_off
+"It's dark enough now, switch off the lights in the basement.",light_off
+Can you switch off the lights in the backyard?,light_off
+It's time to turn off the Christmas lights.,light_off
+Can you switch off the lights in the garden?,light_off
+"It's getting late, turn off the lights in the driveway.",light_off
+Turn on the air conditioning in the living room.,ac_on
+Please activate the AC in the bedroom.,ac_on
+"It's hot in here, can you cool down the room?",ac_on
+"Turn on the AC, it's too warm.",ac_on
+"Activate the air conditioning in the office, please.",ac_on
+"Time to chill, turn on the air conditioning.",ac_on
+Can you adjust the thermostat to cool the room?,ac_on
+"I want to lower the temperature, turn on the AC.",ac_on
+"It's sweltering, turn on the air conditioning unit.",ac_on
+"Switch on the AC, it's getting humid.",ac_on
+Can you turn on the AC in the bathroom?,ac_on
+"I need the room to be cooler, please turn on the AC.",ac_on
+"It's too warm for me, please turn on the AC.",ac_on
+"I can't stand the heat, please turn on the AC.",ac_on
+"Time to cool off, turn on the air conditioning.",ac_on
+"I'm sweating, please turn on the AC.",ac_on
+"It's too warm to work, turn on the AC.",ac_on
+Can you activate the AC in the study?,ac_on
+"It's getting hot, please turn on the AC.",ac_on
+"I need to cool down, turn on the air conditioning.",ac_on
+"It's too hot to sleep, please turn on the AC.",ac_on
+"I can't take this heat, turn on the AC.",ac_on
+Can you activate the AC in the guest room?,ac_on
+"The room is too warm for me, turn on the AC.",ac_on
+"It's getting uncomfortable, turn on the air conditioning.",ac_on
+"It's too hot, please turn on the AC.",ac_on
+Can you turn on the AC in the kitchen?,ac_on
+"It's getting muggy, turn on the AC.",ac_on
+"I need to cool down, please turn on the AC.",ac_on
+"It's too warm, please turn on the air conditioning.",ac_on
+Can you activate the AC in the garage?,ac_on
+"It's getting hot out there, please turn on the AC.",ac_on
+"I need to cool down, turn on the AC in the attic.",ac_on
+"It's too warm, please turn on the AC in the basement.",ac_on
+Turn off the air conditioning in the living room.,ac_off
+Please deactivate the AC in the bedroom.,ac_off
+"It's cold now, can you turn off the AC?",ac_off
+"Turn off the AC, the room is freezing.",ac_off
+"Deactivate the air conditioning in the office, please.",ac_off
+"Time to warm up, turn off the air conditioning.",ac_off
+Can you adjust the thermostat to turn off the AC?,ac_off
+"I want to raise the temperature, turn off the AC.",ac_off
+"It's comfortable now, turn off the air conditioning unit.",ac_off
+"Switch off the AC, it's too cold.",ac_off
+Can you turn off the AC in the bathroom?,ac_off
+"It's too cold now, please turn off the AC.",ac_off
+"I'm feeling cold, please turn off the AC.",ac_off
+"The room is too cold for me, please turn off the AC.",ac_off
+"I'm freezing, please turn off the air conditioning.",ac_off
+"I want to warm up a little, turn off the AC.",ac_off
+Can you deactivate the AC in the study?,ac_off
+"It's getting cold in here, turn off the AC.",ac_off
+"I'm freezing, please turn off the AC.",ac_off
+"I need to warm up, turn off the AC.",ac_off
+"It's too cold to sleep, please turn off the AC.",ac_off
+Can you deactivate the AC in the guest room?,ac_off
+"I want to warm up, turn off the AC.",ac_off
+"The room is too cold for me, turn off the AC.",ac_off
+"I'm feeling chilled, please turn off the AC.",ac_off
+Can you turn off the AC in the kitchen?,ac_off
+"The kitchen is too cold, please turn off the AC.",ac_off
+"I want to warm up, turn off the AC in the garage.",ac_off
+"It's cold enough, turn off the AC in the attic.",ac_off
+"I'm feeling cold, please turn off the AC in the basement.",ac_off
+Please activate the ventilation in the kitchen.,vent_on
+"It's stuffy in here, can you turn on the vent?",vent_on
+"Turn on the ventilation, the air feels stale.",vent_on
+"Activate the vent in the basement, please.",vent_on
+"Time to circulate some air, turn on the vent.",vent_on
+Can you open the vent to improve airflow?,vent_on
+"I want to ventilate the room, turn on the vent.",vent_on
+"It's humid, turn on the vent to reduce moisture.",vent_on
+"Switch on the vent, it's getting stuffy.",vent_on
+Can you turn on the vent in the bedroom?,vent_on
+"I need some fresh air in here, please turn on the vent.",vent_on
+"The air is stale, please turn on the vent.",vent_on
+Can you activate the vent in the living room?,vent_on
+"It's getting stuffy, please turn on the vent.",vent_on
+"I'd like to clear the air, turn on the vent.",vent_on
+Can you turn on the vent in the office?,vent_on
+"The air is stagnant, please turn on the vent.",vent_on
+"I need some fresh air, turn on the vent.",vent_on
+Can you activate the vent in the study?,vent_on
+"The room is stuffy, please turn on the vent.",vent_on
+"I'd like to circulate the air, turn on the vent.",vent_on
+Can you turn on the vent in the guest room?,vent_on
+"I need to air out this room, turn on the vent.",vent_on
+Can you activate the vent in the dining room?,vent_on
+"The air feels stale, please turn on the vent.",vent_on
+"It's getting stuffy in here, turn on the vent in the attic.",vent_on
+"I need to air out this room, turn on the vent in the basement.",vent_on
+Please deactivate the ventilation in the kitchen.,vent_off
+"It's breezy now, can you turn off the vent?",vent_off
+"Turn off the ventilation, it's too windy.",vent_off
+"Deactivate the vent in the basement, please.",vent_off
+"Time to stop circulating air, turn off the vent.",vent_off
+Can you close the vent to prevent drafts?,vent_off
+"I want to stop ventilating the room, turn off the vent.",vent_off
+"It's dry, turn off the vent to retain moisture.",vent_off
+"Switch off the vent, it's becoming too breezy.",vent_off
+Can you turn off the vent in the bedroom?,vent_off
+"It's too breezy now, please turn off the vent.",vent_off
+"I'm feeling a little cold, please turn off the vent.",vent_off
+Can you deactivate the vent in the living room?,vent_off
+"The air is circulating enough, please turn off the vent.",vent_off
+"I don't need the vent on anymore, please turn it off.",vent_off
+Can you turn off the vent in the office?,vent_off
+"It's not stuffy anymore, please turn off the vent.",vent_off
+"I don't need to ventilate this room, turn off the vent.",vent_off
+Can you deactivate the vent in the study?,vent_off
+"The air is clear enough, please turn off the vent.",vent_off
+"I'm not feeling stuffy anymore, turn off the vent.",vent_off
+Can you turn off the vent in the guest room?,vent_off
+"The air is circulating well, please turn off the vent.",vent_off
+"I want to keep the air in this room, turn off the vent.",vent_off
+Can you deactivate the vent in the dining room?,vent_off
+"I'm not feeling stuffy, turn off the vent.",vent_off
+"It's not stuffy anymore, turn off the vent in the attic.",vent_off
+"I'm not feeling stuffy, turn off the vent in the basement.",vent_off
+Please activate the fan in the living room.,fan_on
+"It's warm in here, can you turn on the fan?",fan_on
+"Turn on the fan, I need some air circulation.",fan_on
+"Activate the fan in the office, please.",fan_on
+"Time to create some airflow, turn on the fan.",fan_on
+Can you adjust the fan speed to low?,fan_on
+"I want to feel a breeze, turn on the fan.",fan_on
+"It's stuffy, turn on the fan for ventilation.",fan_on
+"Switch on the fan, it's getting hot.",fan_on
+Can you turn on the fan in the bathroom?,fan_on
+"It's getting warm in here, please turn on the fan.",fan_on
+"I need some air movement, please turn on the fan.",fan_on
+Can you activate the fan in the kitchen?,fan_on
+"It's getting stuffy, please turn on the fan.",fan_on
+"I'd like to feel a little breeze, turn on the fan.",fan_on
+Can you turn on the fan in the study?,fan_on
+"The air is stagnant, please turn on the fan.",fan_on
+"I need to circulate the air, turn on the fan.",fan_on
+Can you activate the fan in the guest room?,fan_on
+"The air is getting warm, please turn on the fan.",fan_on
+"I'd like a bit of airflow, turn on the fan.",fan_on
+Can you turn on the fan in the dining room?,fan_on
+"I need some air circulation, turn on the fan.",fan_on
+Can you activate the fan in the garage?,fan_on
+"It's getting warm in here, turn on the fan in the attic.",fan_on
+"I need some air movement, turn on the fan in the basement.",fan_on
+Turn off the fan in the bedroom.,fan_off
+Please deactivate the fan in the living room.,fan_off
+"It's getting cold, can you turn off the fan?",fan_off
+"Turn off the fan, it's too noisy.",fan_off
+"Deactivate the fan in the office, please.",fan_off
+"Time to stop airflow, turn off the fan.",fan_off
+"I want to feel quieter, turn off the fan.",fan_off
+"It's too breezy, turn off the fan.",fan_off
+"Switch off the fan, it's too windy.",fan_off
+Can you turn off the fan in the bathroom?,fan_off
+"It's too breezy now, please turn off the fan.",fan_off
+"I don't need the fan anymore, please turn it off.",fan_off
+Can you deactivate the fan in the kitchen?,fan_off
+"The air is circulating enough, please turn off the fan.",fan_off
+"It's not stuffy anymore, please turn off the fan.",fan_off
+Can you turn off the fan in the study?,fan_off
+"The air is clear enough, please turn off the fan.",fan_off
+"I'm not feeling stuffy anymore, turn off the fan.",fan_off
+Can you deactivate the fan in the guest room?,fan_off
+"The air is circulating well, please turn off the fan.",fan_off
+"I want to keep the air in this room, turn off the fan.",fan_off
+Can you deactivate the fan in the dining room?,fan_off
+,fan_off
+"I'm not feeling stuffy, turn off the fan.",fan_off
+Can you turn off the fan in the garage?,fan_off
+"It's not stuffy anymore, turn off the fan in the attic.",fan_off
+"I'm not feeling stuffy, turn off the fan in the basement.",fan_off
+"This list is just a starting point. You can easily modify these commands to create even more diverse examples by changing the location, adding more specific details, or changing the tone and formality.",fan_off
+Turn on the lights in the kitchen.,light_on
+"Switch on the living room lights, please.",light_on
+"Can you illuminate the hallway, please?",light_on
+Turn on the bedroom lights.,light_on
+Activate the overhead light in the dining room.,light_on
+Please brighten the study.,light_on
+Could you turn on the lamp on the nightstand?,light_on
+Can you flip the switch to light up the porch?,light_on
+Could you dim the lights in the dining room?,light_off
+"Turn off the lights, it's time to sleep.",light_off
+"Dim the lights in the living room, please.",light_off
+"Turn off the lamp on the desk, please.",light_on
+"I want to set a mood, dim the lights.",light_off
+Can you illuminate the path to the front door?,light_on
+"Turn on the bedside lamp, please.",light_on
+Please switch off the lights in the guest room.,light_off
+Can you turn off the lights in the hallway?,light_off
+"I'm going to sleep, turn off all the lights.",light_off
+"It's getting dark, please turn on the lights in the kitchen.",light_on
+Activate the air conditioning in the kitchen.,ac_on
+"Time to chill, turn on the AC.",ac_on
+"Can you turn off the AC, it's cold now?",ac_off
+Deactivate the air conditioning in the office.,ac_on
+"Time to warm up, turn off the AC.",ac_off
+Turn on the AC in the guest room.,ac_on
+Deactivate the AC in the study.,ac_on
+Please activate the ventilation in the laundry room.,ac_on
+"Can you turn on the fan, it's warm in here?",fan_on
+"Can you turn off the fan, it's getting cold?",fan_off
+"Turn on the ceiling fan in the dining room, please.",fan_on
+Turn off the fan in the bathroom.,fan_off
+Please activate the fan in the garage.,fan_on
+Turn on the heater in the bedroom.,heater_on
+Please switch on the heater in the living room.,heater_on
+"Can you turn on the heater, it's a bit chilly?",heater_on
+"Activate the heater in the office, please.",ac_on
+"Time to warm up, turn on the heater.",heater_on
+"It's cold, turn on the heater.",heater_on
+"I want to feel warmer, turn on the heater.",heater_on
+"It's freezing, turn on the heater.",heater_on
+"Switch on the heater, I'm feeling cold.",heater_on
+Turn off the heater in the bedroom.,heater_off
+Please switch off the heater in the living room.,heater_off
+"Can you turn off the heater, it's warm now?",heater_off
+"Deactivate the heater in the office, please.",ac_on
+"Time to cool down, turn off the heater.",heater_off
+"It's too hot, turn off the heater.",heater_off
+Can you adjust the thermostat to turn off the heater?,heater_off
+"I want to lower the temperature, turn off the heater.",heater_off
+"It's comfortable now, turn off the heater.",heater_off
+"Switch off the heater, it's too warm.",heater_off
+Turn on the heater in the guest room.,heater_on
+Deactivate the heater in the study.,ac_on
+"Activate the multiplug in the office, please.",ac_on
+Can you activate the power strip?,ac_on
+"Deactivate the multiplug in the office, please.",ac_on
+Can you deactivate the power strip?,ac_on
+Deactivate the multiplug in the bathroom.,ac_on
+Please activate the multiplug in the basement.,ac_on
+Turn on the TV in the bedroom.,tv_on
+Please switch on the TV in the living room.,tv_on
+"Can you turn on the TV, it's time to watch TV?",tv_on
+"Activate the TV in the office, please.",tv_off
+"It's movie night, turn on the TV.",tv_on
+Can you flip the switch to turn on the TV?,tv_on
+"Time to catch up on shows, switch on the TV.",tv_on
+"I want to relax and watch TV, turn on the TV.",tv_on
+"It's time for entertainment, turn on the TV.",tv_on
+"Switch on the TV, I want to see the news.",tv_on
+Turn off the TV in the bedroom.,tv_off
+Please switch off the TV in the living room.,tv_off
+"Can you turn off the TV, it's time to sleep?",tv_off
+"Deactivate the TV in the office, please.",tv_off
+"It's bedtime, turn off the TV.",tv_off
+Can you flip the switch to turn off the TV?,tv_off
+"Time to relax without TV, switch off the TV.",tv_off
+"I want some peace and quiet, turn off the TV.",tv_off
+"It's time to save energy, turn off the TV.",tv_off
+"Switch off the TV, I'm done watching.",tv_on
+Turn on the TV in the guest room.,tv_on
+Can you adjust the volume on the TV?,tv_on
+Turn off the TV in the study.,tv_off
+Please mute the TV.,tv_off
+"I want to see what I'm doing, turn on the lights.",light_on
+"It's getting dark in here, can you switch on the lamp?",light_on
+"Switch on the lights, I'm having trouble seeing.",light_on
+Light up the room!,light_on
+"I'm struggling to see, turn on the lights.",light_on
+"It's getting dark outside, turn on the patio lights.",light_on
+"Turn off the lights, it's time for sleep.",light_off
+"Please dim the lights, it's too bright.",light_off
+"The lights are too strong, turn them down.",light_on
+"Turn off the lamp, I'm heading to bed.",light_off
+"Turn off the patio lights, it's getting late.",light_off
+"I'm sweating, turn on the AC.",ac_on
+"It's too hot in here, can you make it cooler?",ac_on
+"I need some relief from the heat, turn on the AC.",ac_on
+"Turn off the central AC, it's cold enough.",ac_off
+"I'm feeling chilly, turn off the AC.",ac_off
+"Turn off the AC in the study, it's getting colder.",ac_off
+"I want to conserve energy, turn off the AC.",ac_off
+"The air feels stale, turn on the vent.",vent_on
+"I don't need any more ventilation, turn off the vent.",vent_off
+"Deactivate the ventilation system, it's not needed now.",vent_off
+"I want to move some air around, turn on the fan.",fan_on
+"Turn off the ceiling fan, it's getting cold.",fan_off
+"I don't need the fan anymore, turn it off.",fan_off
+"It's a bit chilly, can you turn on the heater?",heater_on
+"I need to heat up this area, turn on the heater.",heater_on
+"It's warm now, can you turn off the heater?",heater_off
+"It's warm enough, turn off the heater.",heater_off
+I don't need to heat up this area anymore.,heater_off
+"It's time to power up, can you turn on the multiplug?",multiplug_on
+"Time to plug in, turn on the multiplug.",multiplug_on
+"It's power time, switch on the multiplug.",multiplug_on
+"I want to charge my devices, turn on the multiplug.",multiplug_on
+"It's time to connect, switch on the multiplug.",multiplug_on
+"Turn on the multiplug, I need to use some appliances.",multiplug_on
+"I need to plug in some devices, turn on the multiplug.",multiplug_on
+"It's time to power down, can you turn off the multiplug?",multiplug_off
+"Time to unplug, turn off the multiplug.",multiplug_off
+"It's time to disconnect, switch off the multiplug.",multiplug_off
+"I want to stop charging, turn off the multiplug.",multiplug_off
+"It's time to unplug devices, switch off the multiplug.",multiplug_off
+"Turn off the multiplug, I don't need any appliances.",multiplug_off
+"I'm done charging, turn off the multiplug.",multiplug_off
+"It's time to watch TV, can you turn on the TV?",tv_on
+"I want to watch a movie, turn on the TV.",tv_on
+"It's time to sleep, can you turn off the TV?",tv_off
+"I'm finished watching, turn off the TV.",tv_on
+250 Diverse Electric Automation Intent Commands:,tv_on
+Can you switch on the lights in the dining room?,light_on
+"The hallway is dark, please illuminate it.",light_on
+"I can't see anything, turn on the lights.",light_on
+Activate the lighting in the garage.,light_on
+Time to brighten up the study.,light_on
+Can you flip the switch to light up the bathroom?,light_on
+"I need better visibility, turn on the lights.",light_on
+"It's getting dark in the living room, turn on the lights.",light_on
+"Switch on the lights, it's getting difficult to read.",light_on
+Illuminate the bedroom.,light_on
+Can you switch the lights on in the hallway?,light_on
+"The living room is a bit gloomy, please brighten it up.",light_on
+"I need some light to see, turn on the lights.",light_on
+Activate the lighting in the laundry room.,light_on
+It's time to brighten up the space.,light_on
+Can you turn on the lights in the guest room?,light_on
+"I want to see better, turn on the lights.",light_on
+"The porch is dark, turn on the porch lights.",light_on
+Turn on the overhead lights in the bedroom.,light_on
+Can you switch on the lamps in the living room?,light_on
+"It's a bit dim, can you turn on the lights?",light_on
+"I need some light to work, turn on the lights.",light_on
+Activate the lighting in the basement.,light_on
+Time to brighten up this corner.,light_on
+Can you flip the switch to light up the attic?,light_on
+"It's getting dark in the garden, turn on the garden lights.",light_on
+"Switch on the lights, I'm struggling to see.",light_on
+Can you turn on the lights in the closet?,light_on
+Switch on the table lamp in the living room.,light_on
+"I need some light to read, turn on the lights.",light_on
+Activate the nightlight in the hallway.,light_on
+Time to brighten up the entryway.,light_on
+Can you turn on the lights in the pantry?,light_on
+"I want to see what's in the fridge, turn on the lights.",light_on
+"It's getting dark in the backyard, turn on the backyard lights.",light_on
+"Switch on the lights, I'm about to trip.",light_on
+Turn on the bedside lamp.,light_on
+Switch on the floor lamp in the corner.,light_on
+"I need some light to cook, turn on the lights.",light_on
+Activate the ceiling lights in the living room.,light_on
+Time to brighten up the playroom.,light_on
+Can you turn on the lights in the utility room?,light_on
+"It's getting dark in the workshop, turn on the lights.",light_on
+"Switch on the lights, I'm losing my vision.",light_on
+Can you turn on the lights in the guest bathroom?,light_on
+Switch on the lamp on the desk.,light_on
+Can you switch off the lights in the living room?,light_off
+Deactivate the lighting in the hallway.,light_on
+Can you switch off the lights in the dining room?,light_off
+"It's too bright for me, can you dim the lights?",light_off
+"Turn off the lights, I'm going to sleep.",light_off
+Deactivate the lighting in the garage.,light_on
+"Time to dim the lights, I'm relaxing.",light_off
+Can you flip the switch to turn off the lights in the hallway?,light_off
+"It's morning, turn off the garden lights.",light_off
+"Switch off the lights, I'm heading out.",light_off
+Turn off the lights in the study.,light_off
+Can you switch off the lights in the laundry room?,light_off
+"Turn off the lights, I'm ready for bed.",light_off
+Deactivate the lighting in the basement.,light_on
+"Time to dim the lights, I'm about to watch a movie.",light_off
+Can you flip the switch to turn off the lights in the guest room?,light_off
+"It's morning, turn off the backyard lights.",light_off
+"Switch off the lights, I'm leaving the house.",light_off
+Can you turn off the lights in the closet?,light_off
+Switch off the table lamp in the living room.,light_off
+"I need some darkness to sleep, turn off the lights.",light_off
+Deactivate the nightlight in the hallway.,light_on
+"Time to dim the lights, I'm going to read.",light_off
+Can you turn off the lights in the pantry?,light_off
+"Switch off the lights, I'm going to bed.",light_off
+Can you turn off the lights in the guest bathroom?,light_off
+Switch off the lamp on the desk.,light_on
+"I need some darkness to relax, turn off the lights.",light_off
+Deactivate the ceiling lights in the living room.,light_on
+"Time to dim the lights, I'm getting ready for bed.",light_off
+Can you turn off the lights in the utility room?,light_off
+"It's morning, turn off the workshop lights.",light_off
+"Switch off the lights, I'm heading to bed.",light_off
+Turn off the bedside lamp.,light_off
+Switch off the floor lamp in the corner.,light_off
+Deactivate the overhead lights in the bedroom.,light_on
+"Time to dim the lights, I'm going to watch a movie.",light_off
+Can you turn off the lights in the playroom?,light_off
+Activate the air conditioning in the office.,ac_on
+Cool down the bedroom.,ac_on
+Can you activate the AC in the dining room?,ac_on
+"It's hot in here, please cool down the space.",ac_on
+"Turn on the AC, I'm sweating.",ac_on
+Can you adjust the thermostat to lower the temperature?,ac_on
+"I want to feel cooler, turn on the AC.",ac_on
+"It's getting too warm, turn on the air conditioning.",ac_on
+"Switch on the AC, it's unbearable.",ac_on
+Can you turn on the AC in the garage?,ac_on
+Switch on the AC in the study.,ac_on
+"I need to cool down, turn on the AC.",ac_on
+Activate the air conditioning in the laundry room.,ac_on
+"I want to feel comfortable, turn on the AC.",ac_on
+"It's scorching, turn on the air conditioning.",ac_on
+"Switch on the AC, it's becoming unbearable.",ac_on
+Can you turn on the AC in the basement?,ac_on
+Switch on the AC in the guest room.,ac_on
+Activate the air conditioning in the guest bathroom.,ac_on
+"I want to feel refreshed, turn on the AC.",ac_on
+"Switch on the AC, I'm uncomfortable.",ac_on
+Turn off the AC in the bedroom.,ac_off
+Can you deactivate the AC in the dining room?,ac_off
+"It's cold now, please turn off the AC.",ac_off
+"Turn off the AC, I'm shivering.",ac_off
+Deactivate the air conditioning in the kitchen.,ac_off
+Can you adjust the thermostat to raise the temperature?,ac_off
+"I want to feel warmer, turn off the AC.",ac_off
+"It's getting too cold, turn off the air conditioning.",ac_off
+"Switch off the AC, it's uncomfortable.",ac_off
+Can you turn off the AC in the garage?,ac_off
+Switch off the AC in the study.,ac_off
+Deactivate the air conditioning in the laundry room.,ac_off
+"I want to feel comfortable, turn off the AC.",ac_off
+"It's chilly, turn off the air conditioning.",ac_off
+"Switch off the AC, I'm freezing.",ac_off
+Can you turn off the AC in the basement?,ac_off
+Switch off the AC in the guest room.,ac_off
+Deactivate the air conditioning in the guest bathroom.,ac_off
+"I want to feel cozy, turn off the AC.",ac_off
+Activate the vent in the basement.,vent_on
+Turn on the vent in the dining room.,vent_on
+Can you activate the ventilation in the garage?,vent_on
+"It's stuffy in here, please turn on the vent.",vent_on
+"Turn on the ventilation, the air is stale.",vent_on
+Activate the vent in the laundry room.,vent_on
+"I want to ventilate the space, turn on the vent.",vent_on
+"It's humid, turn on the vent to remove moisture.",vent_on
+"Switch on the vent, it's becoming stuffy.",vent_on
+Can you turn on the vent in the study?,vent_on
+Switch on the vent in the guest room.,vent_on
+"I need to circulate the air, turn on the vent.",vent_on
+Activate the ventilation in the guest bathroom.,vent_on
+"It's humid, turn on the vent to eliminate moisture.",vent_on
+"Switch on the vent, it's starting to feel stuffy.",vent_on
+Turn off the vent in the dining room.,vent_off
+Can you deactivate the ventilation in the garage?,vent_off
+"It's breezy now, please turn off the vent.",vent_off
+Deactivate the vent in the laundry room.,vent_off
+"I want to stop ventilating the space, turn off the vent.",vent_off
+Can you turn off the vent in the study?,vent_off
+Switch off the vent in the guest room.,vent_off
+"I need to stop circulating the air, turn off the vent.",vent_off
+Deactivate the ventilation in the guest bathroom.,vent_off
+Activate the fan in the office.,fan_on
+Turn on the ceiling fan in the living room.,fan_on
+Can you activate the fan in the dining room?,fan_on
+"It's getting warm, please turn on the fan.",fan_on
+Turn on the lights in the bedroom.,light_on
+"Switch on the lights in the living room, please.",light_on
+"It's a bit dark here, can you illuminate the room?",light_on
+"Turn on the lights, I need better visibility.",light_on
+"Activate the lighting in the hallway, please.",light_on
+"Time to brighten up the space, turn on the lights.",light_on
+Can you flip the switch to light up the kitchen?,light_on
+"It's getting dark outside, turn on the porch lights.",light_on
+Brighten up the room.,light_on
+Illuminate the space.,light_on
+Can you provide some light?,light_on
+Make it brighter.,light_on
+Turn on the ceiling lights.,light_on
+I need some light for reading.,light_on
+It's too dark to cook.,light_on
+I can't see the TV.,light_on
+Light up the bathroom.,light_on
+Can you turn on the hallway lights?,light_on
+I need some light for the stairs.,light_on
+I want to be able to see the door.,light_on
+I need light to find my keys.,light_on
+Let there be light.,light_on
+It's time to light up the living room.,light_on
+I need more light to see the artwork.,light_on
+"Switch on the lights, it's getting late.",light_on
+I want to be able to see what I'm doing.,light_on
+Please turn on the lights in the garage.,light_on
+I need some light to work on this project.,light_on
+Let's get this room lit up.,light_on
+Turn on the lights for the party.,light_on
+Can you turn on the porch lights for me?,light_on
+I need some light to see my way around.,light_on
+"Light up the hallway, please.",light_on
+I want some light for the entryway.,light_on
+Turn on the lights in the office.,light_on
+Let's illuminate the kitchen.,light_on
+Can you turn on the lights in the basement?,light_on
+I need some light to find my way upstairs.,light_on
+Please turn on the lights in the guest room.,light_on
+I want some light to see the front yard.,light_on
+Turn on the lights in the laundry room.,light_on
+It's time to illuminate the living room.,light_on
+I need some light to read a book.,light_on
+"Can you turn on the lights in the bedroom, please?",light_on
+Please illuminate the space.,light_on
+It's time to light up the hallway.,light_on
+I need some light to cook dinner.,light_on
+"Can you turn on the lights in the garage, please?",light_on
+Please turn on the lights for the party.,light_on
+It's time to light up the backyard.,light_on
+I need some light to see the street.,light_on
+Can you turn on the lights in the garden?,light_on
+"Turn on the lights, it's time to work.",light_on
+I need some light to find my way around.,light_on
+I need some light to see what I'm doing.,light_on
+"Let's illuminate the living room, please.",light_on
+It's time to light up the office.,light_off
+I need some light to do my homework.,light_on
+Can you turn on the lights in the bedroom?,light_on
+It's time to light up the kitchen.,light_on
+I need some light to see the bathroom.,light_on
+"Let's get some light in here, it's getting dark.",light_on
+"Turn on the lights, please.",light_on
+Can you illuminate the hallway?,light_on
+It's time to light up the stairs.,light_on
+I need some light to find my way to the door.,light_on
+Can you turn on the porch lights?,light_on
+I need some light to see the house number.,light_on
+Please turn on the lights in the backyard.,light_on
+I need some light to enjoy the garden.,light_on
+Can you turn on the lights in the garage?,light_on
+Let's get some light in here for the party.,light_on
+"Please turn on the lights, it's getting dark.",light_on
+I need some light to work on my project.,light_on
+Please turn on the lights in the office.,light_on
+Turn off the ceiling lights.,light_off
+"I need to sleep, turn off the lights.",light_off
+Can you switch off the lights?,light_off
+Make it darker.,light_off
+"I'm leaving the room, please turn off the lights.",light_off
+"Can you turn off the hallway lights, please?",light_off
+"Turn off the kitchen lights, it's time to sleep.",light_off
+"I'm going to bed, turn off the lights, please.",light_off
+Please turn off the lights in the bathroom.,light_off
+Can you turn off the lights in the living room?,light_off
+"I want to save energy, turn off the lights.",light_off
+Please turn off the lights in the dining room.,light_off
+It's time to turn off the lights in the garage.,light_off
+"I'm going to bed, please turn off the lights.",light_off
+Please turn off the lights in the office.,light_off
+"I'm leaving the house, please turn off the lights.",light_off
+Can you turn off the lights in the basement?,light_off
+"I'm going to sleep, turn off the lights.",light_off
+Please turn off the lights in the guest room.,light_off
+It's time to turn off the lights in the backyard.,light_off
+Please turn off the lights in the laundry room.,light_off
+"I'm going to sleep, please turn off the lights.",light_off
+Cool down the room.,ac_on
+Lower the temperature.,ac_on
+I need a cool breeze.,ac_on
+"Turn on the AC, it's too hot to work.",ac_on
+Can you turn on the AC in the living room?,ac_on
+"I'm feeling warm, please turn on the AC.",ac_on
+"Can you turn on the AC in the bedroom, please?",ac_on
+Please cool down the room.,ac_on
+Can you turn on the AC in the office?,ac_on
+Please turn on the AC unit.,ac_on
+"I'm feeling uncomfortable, please turn on the AC.",ac_on
+Can you turn on the AC in the guest room?,ac_on
+Please cool down the house.,ac_on
+"It's too hot, turn on the AC.",ac_on
+Can you turn on the AC in the laundry room?,ac_on
+Please turn on the AC unit in the garage.,ac_on
+"It's a bit too warm, turn on the AC.",ac_on
+Can you turn on the AC in the pantry?,ac_on
+Please turn on the AC in the basement.,ac_on
+"I need some cool air, please turn on the AC.",ac_on
+Can you turn on the AC in the dining room?,ac_on
+Please turn on the AC in the hallway.,ac_on
+"It's time to cool down, turn on the AC.",ac_on
+Please turn on the AC in the backyard.,ac_on
+"Turn off the AC, I'm getting cold.",ac_off
+"Can you turn off the AC in the living room, please?",ac_off
+"I'm feeling chilly, please turn off the AC.",ac_off
+Please turn off the AC in the bedroom.,ac_off
+"I'm feeling cold, can you turn off the AC?",ac_off
+Please turn off the AC unit.,ac_off
+"It's too cold, turn off the AC.",ac_off
+Can you turn off the AC in the office?,ac_off
+"I'm getting cold, please turn off the AC.",ac_off
+Please turn off the AC in the guest room.,ac_off
+"It's too cold in here, please turn off the AC.",ac_off
+Can you turn off the AC in the laundry room?,ac_off
+Please turn off the AC unit in the garage.,ac_off
+Can you turn off the AC in the pantry?,ac_off
+Please turn off the AC in the basement.,ac_off
+Can you turn off the AC in the dining room?,ac_off
+Please turn off the AC in the hallway.,ac_off
+Please turn off the AC in the backyard.,ac_off
+Let's ventilate the room.,vent_on
+"Open the vent, please.",vent_on
+Can you turn on the vent in the bathroom?,vent_on
+"Turn on the ventilation, please.",vent_on
+I need to clear the air.,vent_on
+Please turn on the vent in the kitchen.,vent_on
+"It's stuffy, can you turn on the vent?",vent_on
+Please turn on the ventilation in the laundry room.,vent_on
+I need to clear the air in the garage.,vent_on
+Can you turn on the vent in the basement?,vent_on
+"Could you illuminate the bathroom, please?",light_on
+Brighten up the living room.,light_on
+Can you flip the switch to light up the office?,light_off
+"It's getting dark in the bedroom, turn on the lights.",light_on
+Could you switch on the lights in the study?,light_on
+Can you illuminate the area around the stairs?,light_on
+Switch on the lights in the garage.,light_on
+Can you dim the lights in the living room?,light_off
+I want to turn off the lights in the kitchen.,light_off
+Could you switch off the lights in the hallway?,light_off
+"It's too bright in the bathroom, please dim the lights.",light_off
+"Turn off the lights in the office, please.",light_off
+Time to turn off the lights in the dining room.,light_off
+Can you flip the switch to turn off the lights in the study?,light_off
+Switch off the lights in the garden.,light_off
+Can you switch on the TV in the living room?,tv_on
+"It's time to watch TV, activate the TV.",tv_on
+Can you flip the switch to turn on the TV in the office?,tv_on
+Switch on the TV in the hallway.,tv_on
+Can you switch off the TV in the living room?,tv_off
+Can you flip the switch to turn off the TV in the office?,tv_off
+Switch off the TV in the hallway.,tv_off
+"Illuminate the kitchen, please.",light_on
+Switch on the living room lights.,light_on
+I'd like to brighten up the hallway.,light_on
+Can you turn on the bathroom lights?,light_on
+"It's getting dark, please turn on the lights.",light_on
+I need more light in the bedroom.,light_on
+"Time to light up the study, please.",light_on
+Can you activate the lights in the garage?,light_on
+"Let's brighten up the space, turn on the lights.",light_on
+"I need better visibility, please turn on the lights.",light_on
+"It's hard to see, can you illuminate the room?",light_on
+"Switch the lights on in the dining room, please.",light_on
+Could you activate the overhead lights in the living room?,light_on
+"I need more light, please turn on the lamp.",light_on
+Can you turn on the reading lamp in the corner?,light_on
+"I want more light to see the book, please.",light_on
+"Turn on the lights in the basement, please.",light_on
+"It's too dark to read, can you brighten up the room?",light_on
+I'd like to turn on the lights in the guest room.,light_on
+Can you flip the switch for the lights in the hallway?,light_on
+"I need a little more light, please turn on the lamp.",light_on
+"Switch on the lights in the laundry room, please.",light_on
+"Turn on the porch lights, it's getting dark outside.",light_on
+Could you activate the lights in the front yard?,light_on
+"I want to illuminate the backyard, please turn on the lights.",light_on
+Can you turn on the lights near the entrance?,light_on
+"I need to see clearly, please turn on the lights.",light_on
+"It's time to light up the garden, please.",light_on
+Can you activate the lights in the patio?,light_on
+"I'd like to turn on the lights in the balcony, please.",light_on
+Could you activate the lights in the driveway?,light_on
+"I need to see the walkway, please turn on the lights.",light_on
+"Turn on the lights in the workshop, please.",light_on
+Can you activate the lights in the garage workshop?,light_on
+I'd like to turn on the lights in the attic.,light_on
+Can you activate the lights in the utility room?,light_on
+"Turn on the lights in the pantry, please.",light_on
+"I need to see the items, please turn on the lights.",light_on
+Could you activate the lights in the closet?,light_on
+I'd like to turn on the lights in the storage room.,light_on
+"Could you switch off the lights in the bedroom, please?",light_off
+Please turn off the lights in the living room.,light_off
+I'd like to dim the lights in the hallway.,light_off
+Can you turn off the lights in the bathroom?,light_off
+"It's bedtime, please turn off the lights.",light_off
+"I want to conserve energy, please turn off the lights.",light_on
+Time to switch off the lights in the study.,light_off
+Can you deactivate the lights in the garage?,light_on
+"Let's dim the lights, it's movie night.",light_off
+"Turn off the lights, please, it's getting late.",light_off
+"Switch off the lights in the dining room, please.",light_off
+Could you deactivate the overhead lights in the living room?,light_on
+I'd like to turn off the lights in the guest room.,light_off
+"Turn off the lights in the basement, please.",light_off
+I want to turn off the lights in the laundry room.,light_off
+"Switch off the porch lights, it's morning.",light_off
+Could you deactivate the lights in the front yard?,light_on
+I want to turn off the lights in the backyard.,light_off
+Can you turn off the lights near the entrance?,light_off
+It's time to turn off the lights in the garden.,light_off
+Can you deactivate the lights in the patio?,light_on
+I'd like to turn off the lights in the balcony.,light_on
+Could you deactivate the lights in the driveway?,light_on
+"Turn off the lights in the workshop, please.",light_off
+Can you deactivate the lights in the garage workshop?,light_on
+I'd like to turn off the lights in the attic.,light_off
+Can you deactivate the lights in the utility room?,light_on
+"Turn off the lights in the pantry, please.",light_off
+"I'm leaving the room, could you switch off the lights?",light_off
+It's time to turn off the lights in the closet.,light_off
+Can you deactivate the lights in the storage room?,light_on
+"I need to cool down, can you turn on the AC?",ac_on
+"Activate the air conditioning in the living room, please.",ac_on
+"It's hot, please turn on the air conditioning.",ac_on
+Can you switch on the AC in the bedroom?,ac_on
+"I want to lower the temperature, please turn on the AC.",ac_on
+"It's sweltering, turn on the AC unit.",ac_on
+"It's too warm, can you turn on the AC?",ac_on
+Please activate the AC in the office.,ac_on
+"It's stifling, turn on the air conditioning.",ac_on
+I'd like to turn on the AC in the guest room.,ac_on
+Can you activate the AC in the basement?,ac_on
+"It's uncomfortable, please turn on the AC.",ac_on
+"I need some relief from the heat, can you turn on the AC?",ac_on
+"It's getting unbearable, please turn on the AC.",ac_on
+"Switch on the AC in the laundry room, please.",ac_on
+Could you activate the AC in the garage?,ac_on
+I'd like to turn on the AC in the attic.,ac_on
+Can you activate the AC in the utility room?,ac_on
+"Turn on the AC in the pantry, please.",ac_on
+"I need to cool down the space, please turn on the AC.",ac_on
+Could you activate the AC in the closet?,ac_on
+I'd like to turn on the AC in the storage room.,ac_on
+Can you activate the AC in the workshop?,ac_on
+"It's too hot to work, please turn on the AC.",ac_on
+"Switch on the AC in the garage workshop, please.",ac_on
+Please deactivate the AC in the living room.,ac_off
+I'd like to turn off the AC in the bedroom.,ac_off
+"It's too cold, can you switch off the AC?",ac_off
+"I want to raise the temperature, please turn off the AC.",ac_off
+"It's comfortable now, turn off the AC unit.",ac_off
+"Switch off the AC, it's too chilly.",ac_off
+"The room is freezing, can you turn off the AC?",ac_off
+Please deactivate the AC in the office.,ac_off
+"It's time to turn off the AC, it's getting chilly.",ac_off
+I'd like to turn off the AC in the guest room.,ac_off
+Can you deactivate the AC in the basement?,ac_off
+"It's time to turn off the AC, I'm getting cold.",ac_off
+"I need to stop cooling, please turn off the AC.",ac_off
+"It's getting too cold, please turn off the AC.",ac_off
+"Switch off the AC in the laundry room, please.",ac_off
+Could you deactivate the AC in the garage?,ac_off
+I'd like to turn off the AC in the attic.,ac_off
+Can you deactivate the AC in the utility room?,ac_off
+"Turn off the AC in the pantry, please.",ac_off
+"I'm leaving the room, could you switch off the AC?",ac_off
+It's time to turn off the AC in the closet.,ac_off
+Can you deactivate the AC in the storage room?,ac_off
+I'd like to turn off the AC in the workshop.,ac_off
+"It's too cold to work, please turn off the AC.",ac_off
+"Switch off the AC in the garage workshop, please.",ac_off
+"It's stuffy in here, can you activate the vent?",vent_on
+Please switch on the ventilation in the kitchen.,vent_on
+"Turn on the vent, the air feels stale.",vent_on
+"It's time to turn on the vent, the room is stuffy.",vent_on
+"I need fresh air, can you turn on the vent?",vent_on
+Please activate the vent in the guest room.,vent_on
+Could you turn on the vent in the laundry room?,vent_on
+"It's time to ventilate the garage, please.",vent_on
+I'd like to turn on the vent in the attic.,vent_on
+Can you activate the vent in the utility room?,vent_on
+"Turn on the vent in the pantry, please.",vent_on
+"I want to remove the odors, turn on the vent.",vent_on
+Could you activate the vent in the closet?,vent_on
+I'd like to turn on the vent in the storage room.,vent_on
+Can you activate the vent in the workshop?,vent_on
+"It's time to ventilate the garage workshop, please.",vent_on
+I'd like to turn off the vent in the bathroom.,vent_off
+"It's too windy, can you turn off the vent?",vent_off
+"It's time to turn off the vent, the air is fresh.",vent_off
+"I want to stop the airflow, can you turn off the vent?",vent_off
+Please deactivate the vent in the guest room.,vent_off
+Could you turn off the vent in the laundry room?,vent_off
+It's time to turn off the vent in the garage.,vent_off
+I'd like to turn off the vent in the attic.,vent_off
+Can you deactivate the vent in the utility room?,vent_off
+"Turn off the vent in the pantry, please.",vent_off
+"I'm leaving the room, could you switch off the vent?",vent_off
+It's time to turn off the vent in the closet.,vent_off
+Can you deactivate the vent in the storage room.,vent_off
+I'd like to turn off the vent in the workshop.,vent_off
+"It's time to turn off the vent in the garage workshop, please.",vent_off
+Can you turn on the fan in the bedroom?,fan_on
+"It's time to turn on the fan, it's getting warm.",fan_on
+"I need to cool down, can you turn on the fan?",fan_on
+Please activate the fan in the guest room.,fan_on
+Could you turn on the fan in the laundry room?,fan_on
+It's time to turn on the fan in the garage.,fan_on
+I'd like to turn on the fan in the attic.,fan_on
+Can you activate the fan in the utility room?,fan_on
+"Turn on the fan in the pantry, please.",fan_on
+"I want to cool down the space, turn on the fan.",fan_on
+Could you activate the fan in the closet?,fan_on
+I'd like to turn on the fan in the storage room.,fan_on
+Can you activate the fan in the workshop?,fan_on
+"It's too hot to work, please turn on the fan.",fan_on
+"Switch on the fan in the garage workshop, please.",fan_on
+I'd like to turn off the fan in the bedroom.,fan_off
+"It's too noisy, can you turn off the fan?",fan_off
+"It's time to turn off the fan, I'm getting cold.",fan_off
+"I want to stop the fan, can you turn off the fan?",fan_off
+Please deactivate the fan in the guest room.,fan_off
+Could you turn off the fan in the laundry room?,fan_off
+It's time to turn off the fan in the garage.,fan_off
+I'd like to turn off the fan in the attic.,fan_off
+Can you deactivate the fan in the utility room?,fan_off
+"Turn off the fan in the pantry, please.",fan_off
+"I'm leaving the room, could you switch off the fan?",fan_off
+It's time to turn off the fan in the closet.,fan_off
+Can you deactivate the fan in the storage room.,fan_off
+I'd like to turn off the fan in the workshop.,fan_off
+"It's too cool to work, please turn off the fan.",fan_off
+"Switch off the fan in the garage workshop, please.",fan_off
+"Turn on the heater in the bedroom, please.",heater_on
+Can you adjust the thermostat to heat the room?,heater_on
+"It's time to turn on the heater, it's getting cold.",heater_on
+"I need to warm up, can you turn on the heater?",heater_on
+Please activate the heater in the guest room.,heater_on
+Could you turn on the heater in the laundry room?,heater_on
+It's time to turn on the heater in the garage.,heater_on
+I'd like to turn on the heater in the attic.,heater_on
+Can you activate the heater in the utility room?,heater_on
+"Turn on the heater in the pantry, please.",heater_on
+"I want to warm up the space, turn on the heater.",heater_on
+Could you activate the heater in the closet?,heater_on
+I'd like to turn on the heater in the storage room.,heater_on
+Can you activate the heater in the workshop?,heater_on
+"It's too cold to work, please turn on the heater.",heater_on
+"Switch on the heater in the garage workshop, please.",heater_on
+"Turn off the heater in the bedroom, please.",heater_off
+"It's time to turn off the heater, it's getting warm.",heater_off
+"I need to cool down, can you turn off the heater?",heater_off
+Please deactivate the heater in the guest room.,heater_off
+Could you turn off the heater in the laundry room?,heater_off
+It's time to turn off the heater in the garage.,heater_off
+I'd like to turn off the heater in the attic.,heater_off
+Can you deactivate the heater in the utility room?,heater_off
+"Turn off the heater in the pantry, please.",heater_off
+"I'm leaving the room, could you switch off the heater?",heater_off
+It's time to turn off the heater in the closet.,heater_off
+Can you deactivate the heater in the storage room.,heater_off
+I'd like to turn off the heater in the workshop.,heater_off
+"It's too warm to work, please turn off the heater.",heater_off
+"Switch off the heater in the garage workshop, please.",heater_off
+Please switch on the multiplug in the living room.,multiplug_on
+"Turn on the multiplug in the bedroom, please.",multiplug_on
+"It's time to turn on the multiplug, I need to charge my phone.",multiplug_on
+"I need power, can you turn on the multiplug?",multiplug_on
+Please activate the multiplug in the guest room.,multiplug_on
+Could you turn on the multiplug in the laundry room?,multiplug_on
+It's time to turn on the multiplug in the garage.,multiplug_on
+I'd like to turn on the multiplug in the attic.,multiplug_on
+Can you activate the multiplug in the utility room?,multiplug_on
+"Turn on the multiplug in the pantry, please.",multiplug_on
+"I want to power up my appliances, turn on the multiplug.",multiplug_on
+Could you activate the multiplug in the closet?,multiplug_on
+I'd like to turn on the multiplug in the storage room.,multiplug_on
+Can you activate the multiplug in the workshop?,multiplug_on
+"It's time to power up the tools, please turn on the multiplug.",multiplug_on
+"Switch on the multiplug in the garage workshop, please.",multiplug_on
+Please switch off the multiplug in the living room.,multiplug_off
+"Turn off the multiplug in the bedroom, please.",multiplug_off
+"It's time to turn off the multiplug, I'm done charging my phone.",multiplug_off
+"I need to conserve energy, can you turn off the multiplug?",multiplug_off
+Please deactivate the multiplug in the guest room.,multiplug_off
+Could you turn off the multiplug in the laundry room?,multiplug_off
+It's time to turn off the multiplug in the garage.,multiplug_off
+I'd like to turn off the multiplug in the attic.,multiplug_off
+Can you deactivate the multiplug in the utility room?,multiplug_off
+"Turn off the multiplug in the pantry, please.",multiplug_off
+"I'm leaving the room, could you switch off the multiplug?",multiplug_off
+It's time to turn off the multiplug in the closet.,multiplug_off
+Can you deactivate the multiplug in the storage room.,multiplug_off
+I'd like to turn off the multiplug in the workshop.,multiplug_off
+"It's time to turn off the multiplug in the garage workshop, please.",multiplug_off
+Can you turn on the TV in the bedroom?,tv_on
+"Turn on the TV, it's movie night.",tv_on
+"It's time to turn on the TV, I want to watch a movie.",tv_on
+"I need some entertainment, can you turn on the TV?",tv_on
+Please activate the TV in the guest room.,tv_on
+Could you turn on the TV in the laundry room?,tv_on
+It's time to turn on the TV in the garage.,tv_on
+I'd like to turn on the TV in the attic.,tv_on
+Can you activate the TV in the utility room?,tv_on
+"Turn on the TV in the pantry, please.",tv_on
+"I want to watch some shows, turn on the TV.",tv_on
+Could you activate the TV in the closet?,tv_on
+I'd like to turn on the TV in the storage room.,tv_on
+Can you activate the TV in the workshop?,tv_on
+"It's time to turn on the TV in the garage workshop, please.",tv_on
+"Turn off the TV in the bedroom, please.",tv_off
+"It's time to turn off the TV, I'm getting tired.",tv_off
+"I need to go to bed, can you turn off the TV?",tv_off
+Please deactivate the TV in the guest room.,tv_off
+Could you turn off the TV in the laundry room?,tv_off
+It's time to turn off the TV in the garage.,tv_off
+I'd like to turn off the TV in the attic.,tv_off
+Can you deactivate the TV in the utility room?,tv_off
+"Turn off the TV in the pantry, please.",tv_off
+"I'm leaving the room, could you switch off the TV?",tv_off
+It's time to turn off the TV in the closet.,tv_off
+Can you deactivate the TV in the storage room.,tv_off
+I'd like to turn off the TV in the workshop.,tv_off
+"It's time to turn off the TV in the garage workshop, please.",tv_off
+Please switch on the lights in the living room.,light_on
+Illuminate the bathroom.,light_on
+Can you turn on the lights in the study?,light_on
+"I can't see anything, please turn on the lights.",light_on
+Turn on the overhead lights in the living room.,light_on
+"Brighten the kitchen, please.",light_on
+Could you please switch on the lamps in the dining room?,light_on
+"I need more light for reading, turn on the desk lamp.",light_on
+"Let's have some light, turn on the lights in the hallway.",light_on
+"It's too dim in here, activate the lights.",light_on
+Can you turn on the light above the mirror?,light_on
+"I need to see, turn on the lights in the closet.",light_on
+Please switch on the lights in the entryway.,light_on
+"Turn on the lights, I'm stumbling in the dark.",light_on
+"Let's get some light in here, activate the lamps.",light_on
+"I need to see what I'm doing, turn on the lights.",light_on
+"Brighten up the living room, please.",light_on
+"It's time to turn on the lights, it's getting dark.",light_on
+Please switch on the lights in the guest room.,light_on
+"It's too dark to work, please turn on the lights.",light_on
+"I need some light to find my keys, activate the hallway lights.",light_on
+"Turn on the lights, I can't see anything!",light_on
+"Let's have some light, please switch on the lamps.",light_on
+Can you turn on the lights in the attic?,light_on
+"It's getting dark, time to turn on the lights.",light_on
+"I need to see what I'm doing, please switch on the lights.",light_on
+"Brighten up the patio, turn on the lights.",light_on
+"Turn on the lights, I'm having trouble reading.",light_on
+Can you turn on the lights in the laundry room?,light_on
+"I need more light to finish this task, please switch on the lights.",light_on
+"Let's have some light, activate the overhead lights.",light_on
+"It's too dark to see, please turn on the lights.",light_on
+"I need to see what I'm doing, turn on the lights in the kitchen.",light_on
+Please switch on the lights in the playroom.,light_on
+"It's too dim to work, please turn on the lights in the office.",light_on
+"I need to see what I'm doing, activate the lights in the bathroom.",light_on
+"Dim the bathroom lights, please.",light_off
+"It's time for bed, please switch off the lights.",light_off
+"I want to sleep, turn off the lights.",light_off
+Turn off the overhead lights in the living room.,light_off
+Please switch off the lamps in the dining room.,light_off
+Could you please dim the desk lamp?,light_off
+"Let's turn off the lights in the hallway, it's getting late.",light_off
+"I need to sleep, please deactivate the lights.",light_on
+Can you turn off the light above the mirror?,light_off
+"It's late, please turn off the lights.",light_off
+"I'm going to bed, turn off the lights in the closet.",light_off
+Please switch off the lights in the entryway.,light_off
+"It's time to turn off the lights, I'm tired.",light_off
+Can you turn off the lights in the garage?,light_off
+"I'm leaving, please turn off the lights.",light_off
+"I'm going to sleep, activate the sleep mode on the lights.",light_on
+Please switch off the lights in the playroom.,light_off
+"It's getting late, please turn off the lights in the office.",light_off
+"I'm going to bed, activate the sleep mode on the bathroom lights.",light_on
+"Turn off the lights, I'm tired.",light_off
+Please switch off the lights in the attic.,light_off
+"It's time to sleep, turn off the lights.",light_off
+"I'm going to bed, please deactivate the lights.",light_on
+Can you turn off the lights in the laundry room?,light_off
+"I'm ready for bed, please deactivate the lights.",light_on
+"It's time to sleep, please switch off the lights.",light_off
+"I'm going to bed, turn off the lights.",light_off
+"Cool down the bathroom, please.",ac_on
+Can you turn on the AC in the study?,ac_on
+"Turn on the AC in the dining room, please.",ac_on
+Please activate the AC in the guest room.,ac_on
+"It's too hot to sleep, can you turn on the AC?",ac_on
+"I need to cool off, activate the air conditioning.",ac_on
+"Turn on the AC in the kitchen, please.",ac_on
+Please activate the AC in the playroom.,ac_on
+"It's sweltering outside, turn on the AC to cool down.",ac_on
+"I need to cool down, turn on the air conditioning unit.",ac_on
+Please turn on the AC in the attic.,ac_on
+"It's too warm to concentrate, activate the air conditioning.",ac_on
+"Turn on the AC in the basement, please.",ac_on
+Please activate the AC in the garage.,ac_on
+"It's too hot to work, turn on the AC.",ac_on
+"I need to cool down, please turn on the air conditioning.",ac_on
+"Turn on the AC in the hallway, please.",ac_on
+Please activate the AC in the entryway.,ac_on
+"It's too hot to sleep, turn on the AC.",ac_on
+"Turn on the AC in the bedroom, please.",ac_on
+Please activate the AC in the living room.,ac_on
+"Turn on the AC in the patio, please.",ac_on
+"Turn on the AC, it's getting hot.",ac_on
+Can you activate the AC in the playroom?,ac_on
+"I need to cool off, please turn on the AC.",ac_on
+"Turn on the AC, please.",ac_on
+"Turn off the AC in the bathroom, please.",ac_off
+Can you turn off the AC in the study?,ac_off
+"It's cold enough now, please turn off the AC.",ac_off
+"I'm getting cold, turn off the AC.",ac_off
+"Turn off the AC in the dining room, please.",ac_off
+Please deactivate the AC in the guest room.,ac_off
+"I'm cold, can you turn off the AC?",ac_off
+"I want to feel warmer, deactivate the air conditioning.",ac_off
+"Turn off the AC in the kitchen, please.",ac_off
+Please deactivate the AC in the playroom.,ac_off
+"It's not hot anymore, turn off the AC.",ac_off
+"I'm comfortable now, turn off the air conditioning unit.",ac_off
+Please turn off the AC in the attic.,ac_off
+"It's no longer hot, deactivate the air conditioning.",ac_off
+"I'm comfortable now, please turn off the AC.",ac_off
+"Turn off the AC in the basement, please.",ac_off
+Please deactivate the AC in the garage.,ac_off
+"It's cold enough now, turn off the AC.",ac_off
+"I'm getting cold, please turn off the air conditioning.",ac_off
+"Turn off the AC in the hallway, please.",ac_off
+Please deactivate the AC in the entryway.,ac_off
+"Turn off the AC in the bedroom, please.",ac_off
+"Turn off the AC, it's getting chilly.",ac_off
+Can you deactivate the AC in the playroom?,ac_off
+"Turn off the AC, please.",ac_off
+Please turn on the vent in the laundry room.,vent_on
+Can you activate the ventilation in the office?,vent_on
+"It's getting stuffy, turn on the vent.",vent_on
+"I want to improve airflow, turn on the vent.",vent_on
+Please turn on the vent in the garage.,vent_on
+Can you activate the ventilation in the attic?,vent_on
+"It's stuffy in here, turn on the vent.",vent_on
+"I want to circulate some air, turn on the vent.",vent_on
+Please turn on the vent in the pantry.,vent_on
+Can you activate the ventilation in the guest room?,vent_on
+"It's humid in here, turn on the vent.",vent_on
+"I want to reduce moisture, turn on the vent.",vent_on
+Please turn on the vent in the study.,vent_on
+Can you activate the ventilation in the playroom?,vent_on
+"It's stuffy, turn on the vent to improve airflow.",vent_on
+Please turn on the vent in the dining room.,vent_on
+Can you activate the ventilation in the hallway?,vent_on
+Please turn on the vent in the entryway.,vent_on
+Can you activate the ventilation in the bedroom?,vent_on
+Please turn on the vent in the living room.,vent_on
+Can you activate the ventilation in the patio?,vent_on
+"Please turn on the vent, it's stuffy.",vent_on
+"I need to improve airflow, turn on the vent.",vent_on
+Please turn on the vent.,vent_on
+Please turn off the vent in the laundry room.,vent_off
+Can you deactivate the ventilation in the office?,vent_off
+"Can you switch on the lights in the kitchen, please?",light_on
+I want to brighten up the room. Turn on the lights.,light_on
+It's too dark to read. Please illuminate the living room.,light_on
+Let's make this room brighter. Activate the lights.,light_on
+I need better visibility. Turn on the lights in the hallway.,light_on
+Switch on the ceiling lights in the bedroom.,light_on
+"It's getting dark outside, turn on the outdoor lights.",light_on
+Can you flip the switch to light up the dining room?,light_on
+The lighting in the study is too dim. Turn on the lights.,light_on
+It's time to switch on the lamps in the living room.,light_on
+Could you please illuminate the space? It's getting dark.,light_on
+"I'm having trouble seeing. Switch on the lights, please.",light_on
+"The room is pitch black. Turn on the lights, please.",light_on
+Could you turn on the lights in the guest room? It's too dark.,light_on
+"Turn on the lights in the bathroom, please.",light_on
+Can you brighten up the corner of the room by turning on the lights?,light_on
+"It's getting dark, activate the lights in the garage.",light_on
+I want to see better. Please turn on the lights.,light_on
+The room is dark. Can you please turn on the lights?,light_on
+"Turn on the lights, please. It's getting difficult to see.",light_on
+Can you illuminate the space for me? I need to see better.,light_on
+Could you please switch on the lights? I need to see what I'm doing.,light_on
+"Turn on the lights, please. The darkness is bothering me.",light_on
+"I need to see what I'm doing. Turn on the lights, please.",light_on
+Please turn on the lights. I'm having trouble seeing.,light_on
+Can you turn on the lights? It's starting to get dark.,light_on
+"I need better lighting. Turn on the lights, please.",light_on
+Please switch on the lights. I'm trying to read.,light_on
+Could you activate the lights in the basement? It's too dark.,light_on
+Please turn on the lights. The room is quite dark.,light_on
+"Can you switch off the lights in the kitchen, please?",light_off
+It's time to turn off the lights in the living room.,light_off
+"Could you dim the lights in the bedroom, please?",light_off
+It's bedtime. Switch off the lights.,light_off
+"Deactivate the lights in the hallway, please.",light_on
+The lights are too bright. Please dim them.,light_off
+I want to conserve energy. Turn off the lights.,light_on
+It's morning. Please switch off the outdoor lights.,light_off
+I'm leaving the room. Switch off the lights.,light_off
+"Can you turn off the lights, please? It's too bright.",light_off
+Please deactivate the lights in the garage.,light_on
+"The room is too bright. Turn off the lights, please.",light_off
+Could you turn off the lights in the bathroom? It's too bright.,light_off
+It's time to shut off the lights. I'm going to sleep.,light_off
+Please dim the lights. It's a bit too bright for me.,light_off
+"Turn off the lights, please. I'm going to bed.",light_off
+The lights are too bright for my eyes. Please dim them.,light_off
+Could you turn off the lights? I'm trying to sleep.,light_off
+Please turn off the lights. It's too late for such bright lights.,light_off
+Can you turn off the lights? It's getting dark.,light_off
+Please switch off the lights. It's late and I'm tired.,light_off
+Could you dim the lights for me? It's getting dark.,light_off
+Please switch off the lights. I'm feeling sleepy.,light_off
+Can you turn off the lights? I want to get some sleep.,light_off
+Please deactivate the lights. I'm heading to bed.,light_on
+Could you please turn off the lights? I'm going to relax.,light_off
+Could you turn off the lights? I'm not using the room anymore.,light_off
+Please turn off the lights. I'm leaving the room.,light_off
+"Can you switch on the AC in the living room, please?",ac_on
+It's hot in here. Could you cool down the room?,ac_on
+I want to lower the temperature. Turn on the AC.,ac_on
+It's sweltering. Turn on the air conditioning unit.,ac_on
+It's getting humid. Switch on the AC.,ac_on
+The room is stuffy. Can you turn on the AC?,ac_on
+The temperature is too high. Turn on the air conditioning.,ac_on
+Could you please turn on the AC? It's too hot.,ac_on
+"I'm sweating. Turn on the AC, please.",ac_on
+Can you turn on the AC? It's uncomfortable in here.,ac_on
+Please turn on the AC. I can't take the heat.,ac_on
+Could you please activate the AC? It's really hot in here.,ac_on
+"I'm feeling warm. Turn on the AC, please.",ac_on
+The room is like an oven. Please switch on the AC.,ac_on
+It's way too hot to work. Could you turn on the AC?,ac_on
+"Please turn on the AC, it's unbearable.",ac_on
+The room is stuffy and hot. Can you activate the AC?,ac_on
+Could you please turn on the AC? I'm overheating.,ac_on
+The air is thick and humid. Can you switch on the AC?,ac_on
+"It's too hot to sleep. Turn on the AC, please.",ac_on
+"I'm feeling uncomfortable. Turn on the AC, please.",ac_on
+Can you please activate the AC? It's getting hotter by the minute.,ac_on
+Please switch on the AC. The heat is making me dizzy.,ac_on
+I need the AC on. It's way too hot in here.,ac_on
+Can you please activate the AC? I'm feeling unwell from the heat.,ac_on
+"Can you switch off the AC in the living room, please?",ac_off
+It's cold now. Could you turn off the AC?,ac_off
+I want to raise the temperature. Turn off the AC.,ac_off
+It's comfortable now. Turn off the air conditioning unit.,ac_off
+It's too cold. Switch off the AC.,ac_off
+The room is freezing. Please turn off the AC.,ac_off
+The temperature is too low. Turn off the air conditioning.,ac_off
+Could you please turn off the AC? It's getting cold.,ac_off
+"I'm shivering. Turn off the AC, please.",ac_off
+Can you turn off the AC? It's uncomfortable in here.,ac_off
+Please turn off the AC. I can't take the cold.,ac_off
+Could you please deactivate the AC? It's really cold in here.,ac_off
+"I'm feeling chilly. Turn off the AC, please.",ac_off
+The room is like a refrigerator. Please switch off the AC.,ac_off
+It's way too cold to work. Could you turn off the AC?,ac_off
+"Please turn off the AC, it's unbearable.",ac_off
+The room is cold and drafty. Can you deactivate the AC?,ac_off
+Could you please turn off the AC? I'm getting a cold.,ac_off
+The air is dry and cold. Can you switch off the AC?,ac_off
+"It's too cold to sleep. Turn off the AC, please.",ac_off
+"I'm feeling uncomfortable. Turn off the AC, please.",ac_off
+Can you please deactivate the AC? It's getting colder by the minute.,ac_off
+Please switch off the AC. The cold is making me sneeze.,ac_off
+I need the AC off. It's way too cold in here.,ac_off
+Can you please deactivate the AC? I'm feeling unwell from the cold.,ac_off
+"Can you switch on the vent in the bathroom, please?",vent_on
+It's stuffy in here. Could you turn on the vent?,vent_on
+I want to ventilate the room. Turn on the vent.,vent_on
+It's getting stuffy. Switch on the vent.,vent_on
+The air is stagnant. Can you turn on the vent?,vent_on
+"It's getting stuffy in here. Turn on the vent, please.",vent_on
+The air is thick and heavy. Activate the vent.,vent_on
+Please switch on the vent. I need some fresh air.,vent_on
+Could you please turn on the vent? The air is stagnant.,vent_on
+"The room feels stuffy. Could you turn on the vent, please?",vent_on
+I want to clear out the air. Please turn on the vent.,vent_on
+"The room is stuffy and stale. Turn on the vent, please.",vent_on
+Can you activate the vent in the garage? It's getting stuffy.,vent_on
+I want to get some fresh air. Please turn on the vent.,vent_on
+Could you please activate the vent? The room feels stuffy.,vent_on
+Can you switch on the vent in the attic? It's stuffy up there.,vent_on
+Please turn on the vent. The room feels suffocating.,vent_on
+Could you please turn on the vent? I'm feeling stuffy.,vent_on
+It's not a good smell in here. Please turn on the vent.,vent_on
+"Can you activate the vent, please? The room feels stuffy.",vent_on
+"The air feels stale. Turn on the vent, please.",vent_on
+Could you please turn on the vent? The air feels heavy.,vent_on
+Please switch on the vent. The room needs some fresh air.,vent_on
+"Can you turn on the vent, please? The air is not circulating well.",vent_on
+"Can you switch off the vent in the bathroom, please?",vent_off
+It's breezy now. Could you turn off the vent?,vent_off
+I want to stop ventilating the room. Turn off the vent.,vent_off
+It's dry. Turn off the vent to retain moisture.,vent_off
+It's becoming too breezy. Switch off the vent.,vent_off
+The air is moving too much. Can you turn off the vent?,vent_off
+"It's getting windy in here. Turn off the vent, please.",vent_off
+The air is too dry. Activate the vent.,vent_off
+Please switch off the vent. I don't need any more ventilation.,vent_off
+Could you please turn off the vent? The air is too dry.,vent_off
+"The room feels too windy. Could you turn off the vent, please?",vent_off
+I want to reduce the airflow. Please turn off the vent.,vent_off
+"The room is getting too drafty. Turn off the vent, please.",vent_off
+Can you deactivate the vent in the garage? It's getting too windy.,vent_off
+I want to stop the airflow. Please turn off the vent.,vent_off
+Could you please deactivate the vent? The room feels too windy.,vent_off
+Can you switch off the vent in the attic? It's too breezy up there.,vent_off
+Please turn off the vent. The room feels too drafty.,vent_off
+Could you please turn off the vent? I'm feeling cold.,vent_off
+It's not a good smell in here. Please turn off the vent.,vent_off
+"Can you deactivate the vent, please? The room feels too breezy.",vent_off
+"The air feels too dry. Turn off the vent, please.",vent_off
+Could you please turn off the vent? The air feels too windy.,vent_off
+Please switch off the vent. The room needs to be more still.,vent_off
+"Can you turn off the vent, please? The air is moving too much.",vent_off
+"Can you switch on the fan in the bedroom, please?",fan_on
+It's warm in here. Could you turn on the fan?,fan_on
+I want to feel a breeze. Turn on the fan.,fan_on
+It's stuffy. Turn on the fan for ventilation.,fan_on
+It's getting hot. Switch on the fan.,fan_on
+The air is still. Can you turn on the fan?,fan_on
+"It's getting warm in here. Turn on the fan, please.",fan_on
+The air feels heavy. Activate the fan.,fan_on
+Please switch on the fan. I need some fresh air.,fan_on
+Could you please turn on the fan? The air is still.,fan_on
+"The room feels stuffy. Could you turn on the fan, please?",fan_on
+I want to move the air around. Please turn on the fan.,fan_on
+"The room is stuffy and stale. Turn on the fan, please.",fan_on
+Can you activate the fan in the garage? It's getting warm.,fan_on
+I want to cool down. Please turn on the fan.,fan_on
+Could you please activate the fan? The room feels stuffy.,fan_on
+Can you switch on the fan in the attic? It's getting warm up there.,fan_on
+Please turn on the fan. The room feels suffocating.,fan_on
+Could you please turn on the fan? I'm feeling warm.,fan_on
+It's not a good smell in here. Please turn on the fan.,fan_on
+"Can you activate the fan, please? The room feels stuffy.",fan_on
+"The air feels stale. Turn on the fan, please.",fan_on
+Could you please turn on the fan? The air feels heavy.,fan_on
+Please switch on the fan. The room needs some fresh air.,fan_on
+"Can you turn on the fan, please? The air is not circulating well.",fan_on
+"Can you switch off the fan in the bedroom, please?",fan_off
+It's getting cold. Could you turn off the fan?,fan_off
+I want to feel quieter. Turn off the fan.,fan_off
+It's too breezy. Turn off the fan.,fan_off
+It's too windy. Switch off the fan.,fan_off
+The air is moving too much. Can you turn off the fan?,fan_off
+"It's getting cold in here. Turn off the fan, please.",fan_off
+The air is too dry. Activate the fan.,fan_off
+Please switch off the fan. I don't need any more air circulation.,fan_off
+Could you please turn off the fan? The air is too dry.,fan_off
+"The room feels too windy. Could you turn off the fan, please?",fan_off
+I want to reduce the airflow. Please turn off the fan.,fan_off
+"The room is getting too drafty. Turn off the fan, please.",fan_off
+Can you deactivate the fan in the garage? It's getting too windy.,fan_off
+I want to stop the airflow. Please turn off the fan.,fan_off
+Could you please deactivate the fan? The room feels too windy.,fan_off
+Can you switch off the fan in the attic? It's too breezy up there.,fan_off
+Please turn off the fan. The room feels too drafty.,fan_off
+Could you please turn off the fan? I'm feeling cold.,fan_off
+It's not a good smell in here. Please turn off the fan.,fan_off
+"Can you deactivate the fan, please? The room feels too breezy.",fan_off
+"The air feels too dry. Turn off the fan, please.",fan_off
+Could you please turn off the fan? The air feels too windy.,fan_off
+Please switch off the fan. The room needs to be more still.,fan_off
+"Can you turn off the fan, please? The air is moving too much.",fan_off
+"Can you switch on the heater in the bedroom, please?",heater_on
+It's a bit chilly. Could you turn on the heater?,heater_on
+Time to warm up. Turn on the heater.,heater_on
+I want to feel warmer. Turn on the heater.,heater_on
+It's freezing. Turn on the heater.,heater_on
+I'm feeling cold. Switch on the heater.,heater_on
+The room is cold and drafty. Can you turn on the heater?,heater_on
+"It's getting chilly in here. Turn on the heater, please.",heater_on
+The air is cold and damp. Activate the heater.,heater_on
+Please switch on the heater. I need to warm up.,heater_on
+Could you please turn on the heater? The room is too cold.,heater_on
+"The room feels like a refrigerator. Could you turn on the heater, please?",heater_on
+I want to warm up the room. Please turn on the heater.,heater_on
+"The room is freezing. Turn on the heater, please.",heater_on
+Can you activate the heater in the garage? It's getting cold.,heater_on
+I want to feel warmer. Please turn on the heater.,heater_on
+Could you please activate the heater? The room feels too cold.,heater_on
+Can you switch on the heater in the attic? It's getting cold up there.,heater_on
+Please turn on the heater. The room feels like an icebox.,heater_on
+Could you please turn on the heater? I'm feeling cold.,heater_on
+It's not a good smell in here. Please turn on the heater.,heater_on
+"Can you activate the heater, please? The room feels too cold.",heater_on
+"The air feels cold. Turn on the heater, please.",heater_on
+Could you please turn on the heater? The air feels too cold.,heater_on
+Please switch on the heater. The room needs some warmth.,heater_on
+"Can you turn on the heater, please? The air is not circulating well.",heater_on
+"Can you switch off the heater in the bedroom, please?",heater_off
+It's warm now. Could you turn off the heater?,heater_off
+Time to cool down. Turn off the heater.,heater_off
+It's too hot. Turn off the heater.,heater_off
+I want to lower the temperature. Turn off the heater.,heater_off
+It's comfortable now. Turn off the heater.,heater_off
+It's too warm. Switch off the heater.,heater_off
+The room is too warm. Can you turn off the heater?,heater_off
+"It's getting hot in here. Turn off the heater, please.",heater_off
+The air is too dry. Activate the heater.,heater_off
+Please switch off the heater. I don't need any more warmth.,heater_off
+Could you please turn off the heater? The room is too warm.,heater_off
+"The room feels like a sauna. Could you turn off the heater, please?",heater_off
+I want to cool down the room. Please turn off the heater.,heater_off
+"The room is too hot. Turn off the heater, please.",heater_off
+Can you deactivate the heater in the garage? It's getting too warm.,heater_off
+I want to feel cooler. Please turn off the heater.,heater_off
+Could you please deactivate the heater? The room feels too warm.,heater_off
+Can you switch off the heater in the attic? It's too warm up there.,heater_off
+Please turn off the heater. The room feels like an oven.,heater_off
+Could you please turn off the heater? I'm feeling warm.,heater_off
+It's not a good smell in here. Please turn off the heater.,heater_off
+"Can you deactivate the heater, please? The room feels too warm.",heater_off
+"The air feels warm. Turn off the heater, please.",heater_off
+Could you please turn off the heater? The air feels too warm.,heater_off
+Please switch off the heater. The room needs to be cooler.,heater_off
+"Can you turn off the heater, please? The air is not circulating well.",heater_off
+"Can you switch on the multiplug in the bedroom, please?",multiplug_on
+It's time to power up. Could you turn on the multiplug?,multiplug_on
+Time to plug in. Turn on the multiplug.,multiplug_on
+It's power time. Switch on the multiplug.,multiplug_on
+I want to charge my devices. Turn on the multiplug.,multiplug_on
+It's time to connect. Switch on the multiplug.,multiplug_on
+I need to use some appliances. Turn on the multiplug.,multiplug_on
+I need to power up my devices. Can you turn on the multiplug?,multiplug_on
+"It's time to charge my phone. Turn on the multiplug, please.",multiplug_on
+The multiplug needs to be activated. Please turn it on.,multiplug_on
+Please switch on the multiplug. I need to plug in my laptop.,multiplug_on
+Could you please turn on the multiplug? I need to charge my phone.,multiplug_on
+"The room is dark. Could you turn on the multiplug, please?",multiplug_on
+I want to use my appliances. Please turn on the multiplug.,multiplug_on
+"The room is cold. Turn on the multiplug, please.",multiplug_on
+Can you activate the multiplug in the garage? I need to charge my car.,multiplug_on
+I want to use my electronic devices. Please turn on the multiplug.,multiplug_on
+Could you please activate the multiplug? I need to power up my devices.,multiplug_on
+Can you switch on the multiplug in the attic? I need to use some tools.,multiplug_on
+Please turn on the multiplug. The room is too dark.,multiplug_on
+Could you please turn on the multiplug? I'm feeling cold.,multiplug_on
+It's not a good smell in here. Please turn on the multiplug.,multiplug_on
+"Can you activate the multiplug, please? I need to use my laptop.",multiplug_on
+"The air feels cold. Turn on the multiplug, please.",multiplug_on
+Could you please turn on the multiplug? The air feels too cold.,multiplug_on
+Please switch on the multiplug. The room needs some warmth.,multiplug_on
+"Can you turn on the multiplug, please? The air is not circulating well.",multiplug_on
+"Can you switch off the multiplug in the bedroom, please?",multiplug_off
+It's time to power down. Could you turn off the multiplug?,multiplug_off
+Time to unplug. Turn off the multiplug.,multiplug_off
+It's time to disconnect. Switch off the multiplug.,multiplug_off
+I want to stop charging. Turn off the multiplug.,multiplug_off
+It's time to unplug devices. Switch off the multiplug.,multiplug_off
+I don't need any appliances. Turn off the multiplug.,multiplug_off
+I need to power down my devices. Can you turn off the multiplug?,multiplug_off
+"It's time to unplug my phone. Turn off the multiplug, please.",multiplug_off
+The multiplug needs to be deactivated. Please turn it off.,multiplug_off
+Please switch off the multiplug. I need to unplug my laptop.,multiplug_off
+Could you please turn off the multiplug? I need to unplug my phone.,multiplug_off
+"The room is too bright. Could you turn off the multiplug, please?",multiplug_off
+I want to stop using my appliances. Please turn off the multiplug.,multiplug_off
+"The room is too warm. Turn off the multiplug, please.",multiplug_off
+Can you deactivate the multiplug in the garage? I need to unplug my car.,multiplug_off
+I want to stop using my electronic devices. Please turn off the multiplug.,multiplug_off
+Could you please deactivate the multiplug? I need to power down my devices.,multiplug_off
+Can you switch off the multiplug in the attic? I need to unplug some tools.,multiplug_off
+Please turn off the multiplug. The room is too bright.,multiplug_off
+Could you please turn off the multiplug? I'm feeling warm.,multiplug_off
+It's not a good smell in here. Please turn off the multiplug.,multiplug_off
+"Can you deactivate the multiplug, please? I need to unplug my laptop.",multiplug_off
+"The air feels warm. Turn off the multiplug, please.",multiplug_off
+Could you please turn off the multiplug? The air feels too warm.,multiplug_off
+Please switch off the multiplug. The room needs to be cooler.,multiplug_off
+"Can you turn off the multiplug, please? The air is not circulating well.",multiplug_off
+"Can you switch on the TV in the bedroom, please?",tv_on
+It's time to watch TV. Could you turn on the TV?,tv_on
+It's movie night. Turn on the TV.,tv_on
+Time to catch up on shows. Switch on the TV.,tv_on
+I want to relax and watch TV. Turn on the TV.,tv_on
+It's time for entertainment. Turn on the TV.,tv_on
+I want to see the news. Switch on the TV.,tv_on
+I need to catch up on my favorite show. Can you turn on the TV?,tv_on
+"It's time for a movie marathon. Turn on the TV, please.",tv_on
+The TV needs to be activated. Please turn it on.,tv_on
+Please switch on the TV. I want to watch the game.,tv_on
+Could you please turn on the TV? I need to watch the news.,tv_on
+"The room is dark. Could you turn on the TV, please?",tv_on
+I want to relax. Please turn on the TV.,tv_on
+"The room is cold. Turn on the TV, please.",tv_on
+Can you activate the TV in the garage? I want to watch a movie.,tv_on
+I want to watch some TV. Please turn on the TV.,tv_on
+Could you please activate the TV? I need to watch my show.,tv_on
+Can you switch on the TV in the attic? I want to watch a movie.,tv_on
+Please turn on the TV. The room is too dark.,tv_on
+Could you please turn on the TV? I'm feeling bored.,tv_on
+It's not a good smell in here. Please turn on the TV.,tv_on
+"Can you activate the TV, please? I want to watch some TV.",tv_on
+"The air feels cold. Turn on the TV, please.",tv_on
+Could you please turn on the TV? The air feels too cold.,tv_on
+Please switch on the TV. The room needs some warmth.,tv_on
+"Can you turn on the TV, please? The air is not circulating well.",tv_on
+"Can you switch off the TV in the bedroom, please?",tv_off
+It's time to sleep. Could you turn off the TV?,tv_off
+It's bedtime. Turn off the TV.,tv_off
+Time to relax without TV. Switch off the TV.,tv_off
+I want some peace and quiet. Turn off the TV.,tv_off
+It's time to save energy. Turn off the TV.,tv_off
+I'm done watching. Switch off the TV.,tv_on
+I'm going to bed. Can you turn off the TV?,tv_off
+"It's time to sleep. Turn off the TV, please.",tv_off
+The TV needs to be deactivated. Please turn it off.,tv_off
+Please switch off the TV. I'm going to read a book.,tv_off
+Could you please turn off the TV? I'm going to sleep.,tv_off
+"The room is too bright. Could you turn off the TV, please?",tv_off
+I want to go to bed. Please turn off the TV.,tv_off
+"The room is too warm. Turn off the TV, please.",tv_off
+Can you deactivate the TV in the garage? I'm going to sleep.,tv_off
+I want to go to sleep. Please turn off the TV.,tv_off
+Could you please deactivate the TV? I'm going to bed.,tv_off
+Can you switch off the TV in the attic? I'm going to sleep.,tv_off
+Please turn off the TV. The room is too bright.,tv_off
+Could you please turn off the TV? I'm feeling tired.,tv_off
+It's not a good smell in here. Please turn off the TV.,tv_off
+"Can you deactivate the TV, please? I'm going to bed.",tv_off
+"The air feels warm. Turn off the TV, please.",tv_off
+Could you please turn off the TV? The air feels too warm.,tv_off
+Please switch off the TV. The room needs to be cooler.,tv_off
+"Can you turn off the TV, please? The air is not circulating well.",tv_off
+Switch on the lights in the bathroom.,light_on
+Please illuminate the hallway.,light_on
+Can you brighten the living room?,light_on
+Make it brighter in here.,light_on
+Time to see better.,light_on
+"It's dark, can you turn on the lights?",light_on
+"I need more light, please.",light_on
+"I can't see, turn on the lights.",light_on
+Light up the dining room.,light_on
+Switch off the lights in the living room.,light_off
+Please dim the lights.,light_off
+Can you make it darker?,light_off
+Time to shut off the lights.,light_off
+Turn off the lights in the guest room.,light_off
+Switch off the lights in the garage.,light_off
+"It's getting late, turn off the bedroom lights.",light_off
+"Turn off the lights, I'm leaving.",light_off
+"I don't need the lights anymore, switch them off.",light_on
+Turn off the lights in the office.,light_off
+Can you light up the balcony?,light_on
+"Turn on the porch lights, it's dark.",light_on
+"I need a bit more light, turn on the lamp.",light_on
+"The living room is too dark,  please turn on the lights.",light_on
+Can you illuminate the dining area?,light_on
+I need some light in the study room.,light_on
+"The basement needs lighting,  turn it on.",light_on
+Please activate the lights in the garage.,light_on
+Turn on the lights for the home theater.,light_on
+"The attic is pitch black,  switch on the lights.",light_on
+Could you turn on the lights in the pantry?,light_on
+Illuminate the stairway please.,light_on
+The foyer needs some light.,light_on
+Let's brighten up the sunroom.,light_on
+The workshop needs better lighting.,light_on
+Please turn on the lights in the craft room.,light_on
+The mudroom is too dark to see.,light_on
+Activate the lighting in the conservatory.,light_on
+Turn on the garden lights please.,light_on
+The deck needs illumination.,light_on
+Switch on the patio lighting.,light_on
+Can you turn on the pool area lights?,light_on
+The kitchen counter needs task lighting.,light_on
+Time to turn off the living room lights.,light_off
+Please dim the dining area lights.,light_off
+"The study room is too bright,  lights off.",light_off
+Turn off the basement lighting.,light_off
+Deactivate the garage lights please.,light_off
+The home theater needs darkness.,light_off
+Switch off the attic lights.,light_off
+Could you turn off the pantry lights?,light_off
+The stairway lights can go off now.,light_off
+Please disable the foyer lighting.,light_off
+The sunroom is too bright.,light_off
+Turn off the workshop lights.,light_off
+The craft room lights need to go off.,light_off
+Deactivate the mudroom lighting.,light_off
+The conservatory lights can be switched off.,light_off
+Turn off the garden illumination.,light_off
+The deck lights should be off now.,light_off
+Switch off the patio lights.,light_off
+The pool area is too bright.,light_off
+Kitchen counter lights can go dark.,light_off
+"It's getting warm,  turn on the AC in the master bedroom.",ac_on
+"The guest room needs cooling,  activate AC.",ac_on
+Please turn on the air conditioning in the study.,ac_on
+"The living area is too hot,  AC needed.",ac_on
+Can you start the AC in the game room?,ac_on
+The home office needs cooling down.,ac_on
+Turn on the air conditioning in the gym.,ac_on
+The nursery needs climate control.,ac_on
+Please cool down the entertainment room.,ac_on
+The studio apartment is getting warm.,ac_on
+Activate AC in the conference room.,ac_on
+The reception area needs cooling.,ac_on
+Turn on the air conditioning unit in the lobby.,ac_on
+The waiting room is too warm.,ac_on
+Please start the AC in the meditation room.,ac_on
+The yoga studio needs cooling.,ac_on
+Can you turn on the AC in the art room?,ac_on
+The music room is getting hot.,ac_on
+Activate the air conditioning in the library.,ac_on
+The reading nook needs climate control.,ac_on
+"The master bedroom is too cold,  AC off.",ac_off
+Turn off the guest room air conditioning.,ac_off
+The study AC can be switched off now.,ac_off
+Please deactivate the living area AC.,ac_off
+The game room is cool enough.,ac_off
+Switch off the home office air conditioning.,ac_off
+The gym AC needs to be turned off.,ac_off
+Disable the nursery air conditioning.,ac_off
+The entertainment room is chilly.,ac_off
+Turn off the studio apartment AC.,ac_off
+The conference room AC can be disabled.,ac_off
+Please switch off the reception area cooling.,ac_off
+The lobby is cold enough now.,ac_off
+Deactivate the waiting room AC.,ac_off
+The meditation room needs AC off.,ac_off
+Turn off the yoga studio air conditioning.,ac_off
+The art room is cool enough.,ac_off
+Switch off the music room AC.,ac_off
+The library air conditioning can be turned off.,ac_off
+Please disable the reading nook AC.,ac_off
+"The bathroom needs fresh air,  turn on vent.",vent_on
+Please activate kitchen ventilation.,vent_on
+Turn on the laundry room vent.,vent_on
+The powder room needs air circulation.,vent_on
+Start the vent in the smoking area.,vent_on
+The paint room needs ventilation.,vent_on
+Please turn on the greenhouse vent.,vent_on
+The server room needs air circulation.,vent_on
+Activate the vent in the storage area.,vent_on
+The wine cellar needs ventilation.,vent_on
+Turn on the vent in the equipment room.,vent_on
+The chemical storage needs air flow.,vent_on
+Please start the vent in the darkroom.,vent_on
+The printing room needs ventilation.,vent_on
+Activate the vent in the drying room.,vent_on
+The sauna area needs air circulation.,vent_on
+Turn on the steam room vent.,vent_on
+The indoor pool area needs ventilation.,vent_on
+Please activate the garage workshop vent.,vent_on
+The pottery studio needs air flow.,vent_on
+Turn off the bathroom ventilation.,vent_off
+The kitchen vent can be disabled.,vent_off
+Please stop the laundry room ventilation.,vent_off
+The powder room vent needs to be off.,vent_off
+Deactivate the smoking area vent.,vent_off
+Turn off the paint room ventilation.,vent_off
+The greenhouse vent can be switched off.,vent_off
+Please disable the server room ventilation.,vent_off
+The storage area vent needs to stop.,vent_off
+Turn off the wine cellar ventilation.,vent_off
+The equipment room vent can be disabled.,vent_off
+Stop the chemical storage ventilation.,vent_off
+Please turn off the darkroom vent.,vent_off
+The printing room ventilation can stop.,vent_off
+Deactivate the drying room vent.,vent_off
+Turn off the sauna area ventilation.,vent_off
+The steam room vent needs to be off.,vent_off
+Please disable the indoor pool ventilation.,vent_off
+The garage workshop vent can be turned off.,vent_off
+Stop the pottery studio ventilation.,vent_off
+Turn on the ceiling fan in the master suite.,fan_on
+The guest bedroom needs air circulation.,fan_on
+Please activate the fan in the study.,fan_on
+"The reading room is stuffy,  fan needed.",fan_on
+Start the fan in the exercise room.,fan_on
+The meditation space needs air movement.,fan_on
+Could you turn on the fan in the art studio?,fan_on
+"The greenhouse is getting warm,  fan please.",fan_on
+Activate the ceiling fan in the solarium.,fan_on
+The conservatory needs some breeze.,fan_on
+Turn on the fan in the music practice room.,fan_on
+The dance studio needs air circulation.,fan_on
+Please start the fan in the playroom.,fan_on
+The hobby room is getting stuffy.,fan_on
+Activate the fan in the gaming area.,fan_on
+The home theater needs air movement.,fan_on
+Turn on the fan in the breakfast nook.,fan_on
+The dining area could use some air flow.,fan_on
+Please activate the fan in the lounge.,fan_on
+The sitting room needs ventilation.,fan_on
+Turn off the master suite fan.,fan_off
+The guest bedroom fan can be disabled.,fan_off
+Please stop the study room fan.,fan_off
+The reading room fan needs to be off.,fan_off
+Deactivate the exercise room fan.,fan_off
+Turn off the meditation space fan.,fan_off
+The art studio fan can be switched off.,fan_off
+Please disable the greenhouse fan.,fan_off
+The solarium fan needs to stop.,fan_off
+Turn off the conservatory fan.,fan_off
+The music room fan can be disabled.,fan_off
+Stop the dance studio fan.,fan_off
+Please turn off the playroom fan.,fan_off
+The hobby room fan can stop now.,fan_off
+Deactivate the gaming area fan.,fan_off
+Turn off the home theater fan.,fan_off
+The breakfast nook fan needs to be off.,fan_off
+Please disable the dining area fan.,fan_off
+The lounge fan can be turned off.,fan_off
+Stop the sitting room fan.,fan_off
+"It's cold,  turn on the heater in the master bedroom.",heater_on
+The guest room needs warming up.,heater_on
+Please activate the heater in the nursery.,heater_on
+"The living space is chilly,  heat needed.",heater_on
+Start the heater in the sunroom.,heater_on
+The conservatory needs warming.,heater_on
+Could you turn on the heater in the studio?,heater_on
+"The basement is freezing,  heater please.",heater_on
+Activate the heating in the gallery.,heater_on
+The workshop needs some warmth.,heater_on
+Turn on the heater in the craft space.,heater_on
+The game room is too cold.,heater_on
+Please start the heater in the library.,heater_on
+The study nook needs heating.,heater_on
+Activate the heater in the drawing room.,heater_on
+The morning room is chilly.,heater_on
+Turn on the heater in the parlor.,heater_on
+The dining hall needs warming up.,heater_on
+Please activate the heater in the foyer.,heater_on
+The entryway is too cold.,heater_on
+"The master bedroom is warm enough,  heater off.",heater_off
+Turn off the guest room heating.,heater_off
+The nursery heater can be switched off.,heater_off
+Please deactivate the living space heater.,heater_off
+The sunroom is comfortable now.,heater_off
+Switch off the conservatory heating.,heater_off
+The studio heater needs to be turned off.,heater_off
+Disable the basement heating.,heater_off
+The gallery is warm enough.,heater_off
+Turn off the workshop heater.,heater_off
+The craft space heating can be disabled.,heater_off
+Please switch off the game room heater.,heater_off
+The library is warm enough now.,heater_off
+Deactivate the study nook heating.,heater_off
+The drawing room needs heater off.,heater_off
+Turn off the morning room heating.,heater_off
+The parlor is comfortable now.,heater_off
+Switch off the dining hall heater.,heater_off
+The foyer heating can be turned off.,heater_off
+Please disable the entryway heater.,heater_off
+Activate the power strip in the home office.,multiplug_on
+Turn on the multiplug near the desk.,multiplug_on
+"The workstation needs power,  multiplug on.",multiplug_on
+Please activate the study's power strip.,multiplug_on
+Enable the charging station multiplug.,multiplug_on
+The entertainment center needs power.,multiplug_on
+Turn on the gaming setup multiplug.,multiplug_on
+The computer station needs electricity.,multiplug_on
+Activate the workshop power strip.,multiplug_on
+The craft table needs power access.,multiplug_on
+Please turn on the kitchen counter multiplug.,multiplug_on
+The media center needs power connection.,multiplug_on
+Enable the bedroom charging station.,multiplug_on
+The studio equipment needs power.,multiplug_on
+Activate the recording booth multiplug.,multiplug_on
+Turn on the power strip by the window.,multiplug_on
+The reading corner needs power access.,multiplug_on
+Please enable the nightstand multiplug.,multiplug_on
+The vanity area needs power.,multiplug_on
+Turn on the bathroom counter multiplug.,multiplug_on
+Deactivate the home office power strip.,multiplug_off
+Turn off the desk area multiplug.,multiplug_off
+The workstation power can be disabled.,multiplug_off
+Please switch off the study's power strip.,multiplug_off
+Disable the charging station multiplug.,multiplug_off
+The entertainment center power can be off.,multiplug_off
+Turn off the gaming setup multiplug.,multiplug_off
+The computer station needs powering down.,multiplug_off
+Deactivate the workshop power strip.,multiplug_off
+The craft table power can be switched off.,multiplug_off
+Please turn off the kitchen counter multiplug.,multiplug_off
+The media center power should be disabled.,multiplug_off
+Switch off the bedroom charging station.,multiplug_off
+The studio equipment needs shutting down.,multiplug_off
+Deactivate the recording booth multiplug.,multiplug_off
+Turn off the power strip by the window.,multiplug_off
+The reading corner power can be disabled.,multiplug_off
+Please switch off the nightstand multiplug.,multiplug_off
+The vanity area power should be off.,multiplug_off
+Disable the bathroom counter multiplug.,multiplug_off
+Turn on the TV in the family room.,tv_on
+The living room needs television on.,tv_on
+Please activate the bedroom TV.,tv_on
+The game room TV should be turned on.,tv_on
+Switch on the kitchen television.,tv_on
+The den TV needs to be activated.,tv_on
+Turn on the basement television.,tv_on
+The home theater screen needs power.,tv_on
+Activate the guest room TV.,tv_on
+The office television should be on.,tv_on
+Please turn on the gym TV.,tv_on
+The waiting room needs television.,tv_on
+Switch on the break room TV.,tv_on
+The conference room display needs activation.,tv_on
+Turn on the playroom television.,tv_on
+The recreation room TV should be on.,tv_on
+Please activate the bar area TV.,tv_on
+The lounge television needs power.,tv_on
+Switch on the outdoor patio TV.,tv_on
+The sunroom television should be turned on.,tv_on
+Turn off the family room TV.,tv_off
+The living room television can be disabled.,tv_off
+Please deactivate the bedroom TV.,tv_off
+The game room TV should be switched off.,tv_off
+Power down the kitchen television.,tv_off
+The den TV needs to be turned off.,tv_off
+Switch off the basement television.,tv_off
+The home theater screen can be powered down.,tv_off
+Deactivate the guest room TV.,tv_off
+The office television should be off.,tv_off
+Please turn off the gym TV.,tv_off
+The waiting room television can be disabled.,tv_off
+Switch off the break room TV.,tv_off
+The conference room display needs deactivation.,tv_off
+Turn off the playroom television.,tv_off
+The recreation room TV should be powered down.,tv_off
+Please deactivate the bar area TV.,tv_off
+The lounge television needs to be off.,tv_off
+Switch off the outdoor patio TV.,tv_off
+The sunroom television should be turned off.,tv_off
+"The dressing room needs illumination, lights on.",light_on
+Could you brighten up the walk-in closet?,light_on
+Please turn on the vanity lights.,light_on
+The fitting room needs better lighting.,light_on
+Activate the lights in the mudroom.,light_on
+Turn on the pantry lights please.,light_on
+The utility room is too dark to work.,light_on
+Switch on the storage room lights.,light_on
+The wine cellar needs some light.,light_on
+Please illuminate the root cellar.,light_on
+The observatory needs lighting.,light_on
+Turn on the greenhouse grow lights.,light_on
+The potting shed is too dark.,light_on
+Activate the lights in the tool shed.,light_on
+The carport needs illumination.,light_on
+Please turn on the driveway lights.,light_on
+The courtyard needs lighting.,light_on
+Switch on the pergola lights.,light_on
+The gazebo is too dark for dinner.,light_on
+Turn on the poolhouse lights.,light_on
+Time to dim the dressing room.,light_off
+The walk-in closet lights can go off.,light_off
+Please turn off the vanity lighting.,light_off
+Switch off the fitting room lights.,light_off
+The mudroom doesn't need light anymore.,light_off
+Deactivate the pantry lights please.,light_off
+Turn off the utility room lighting.,light_off
+The storage room can go dark now.,light_off
+Please switch off the wine cellar lights.,light_off
+The root cellar lights should be off.,light_off
+Time to dark the observatory.,light_off
+Turn off the greenhouse grow lights.,light_off
+The potting shed lights can go off.,light_off
+Deactivate the tool shed lighting.,light_off
+Please turn off the carport lights.,light_off
+The driveway doesn't need lighting now.,light_off
+Switch off the courtyard illumination.,light_off
+The pergola can go dark.,light_off
+Turn off the gazebo lights please.,light_off
+The poolhouse needs darkness.,light_off
+"The indoor greenhouse is getting warm,  AC on.",ac_on
+Please cool down the sunroom.,ac_on
+The orangery needs air conditioning.,ac_on
+Turn on the AC in the solarium.,ac_on
+The winter garden is too hot.,ac_on
+Activate cooling in the plant room.,ac_on
+The atrium needs temperature control.,ac_on
+Please start the AC in the gallery.,ac_on
+The exhibition space needs cooling.,ac_on
+Turn on the museum room AC.,ac_on
+The studio is getting uncomfortable.,ac_on
+Please cool the photography room.,ac_on
+The darkroom needs air conditioning.,ac_on
+Activate the AC in the print shop.,ac_on
+The workshop is too warm to work.,ac_on
+Turn on cooling in the maker space.,ac_on
+The laboratory needs climate control.,ac_on
+Please start the research room AC.,ac_on
+The archive room is too warm.,ac_on
+Cool down the document storage.,ac_on
+The indoor greenhouse is cool enough.,ac_off
+Please turn off the sunroom AC.,ac_off
+Stop cooling the orangery.,ac_off
+The solarium AC can be switched off.,ac_off
+Deactivate the winter garden cooling.,ac_off
+Turn off the plant room AC.,ac_off
+The atrium is comfortable now.,ac_off
+Please stop the gallery air conditioning.,ac_off
+The exhibition space is cool enough.,ac_off
+Switch off the museum room AC.,ac_off
+The studio doesn't need cooling anymore.,ac_off
+Turn off the photography room AC.,ac_off
+The darkroom cooling can stop.,ac_off
+Deactivate the print shop AC.,ac_off
+The workshop is comfortable now.,ac_off
+Stop the maker space cooling.,ac_off
+The laboratory AC can be turned off.,ac_off
+Please switch off the research room cooling.,ac_off
+The archive room is cool enough.,ac_off
+Turn off the document storage AC.,ac_off
+The recording studio needs ventilation.,vent_on
+Please start the rehearsal room vent.,vent_on
+Turn on the sound booth ventilation.,vent_on
+The mixing room needs fresh air.,vent_on
+Activate the control room vent.,vent_on
+The vocal booth needs air circulation.,vent_on
+Please ventilate the drum room.,vent_on
+The instrument storage needs air flow.,vent_on
+Turn on the piano room vent.,vent_on
+The guitar room needs ventilation.,vent_on
+Start the amp room vent please.,vent_on
+The music library needs fresh air.,vent_on
+Please activate the sheet music room vent.,vent_on
+Turn on the practice room ventilation.,vent_on
+The ensemble room needs air flow.,vent_on
+Activate the orchestra pit vent.,vent_on
+The performance space needs ventilation.,vent_on
+Please start the stage area vent.,vent_on
+The green room needs fresh air.,vent_on
+Turn on the dressing room ventilation.,vent_on
+Stop the recording studio ventilation.,vent_off
+Please turn off the rehearsal room vent.,vent_off
+The sound booth vent can be disabled.,vent_off
+Switch off the mixing room ventilation.,vent_off
+Deactivate the control room vent.,vent_off
+The vocal booth doesn't need ventilation.,vent_off
+Please stop the drum room vent.,vent_off
+Turn off the instrument storage ventilation.,vent_off
+The piano room vent can be switched off.,vent_off
+Stop the guitar room ventilation.,vent_off
+The amp room is ventilated enough.,vent_off
+Please disable the music library vent.,vent_off
+Turn off the sheet music room ventilation.,vent_off
+The practice room vent can stop now.,vent_off
+Deactivate the ensemble room ventilation.,vent_off
+The orchestra pit vent should be off.,vent_off
+Please stop the performance space ventilation.,vent_off
+Turn off the stage area vent.,vent_off
+The green room ventilation can be disabled.,vent_off
+Switch off the dressing room vent.,vent_off
+Turn on the fan in the fitness studio.,fan_on
+The CrossFit area needs air circulation.,fan_on
+Please activate the yoga room fan.,fan_on
+The pilates studio is too stuffy.,fan_on
+Start the fan in the cardio zone.,fan_on
+The weight room needs air movement.,fan_on
+Could you turn on the spinning room fan?,fan_on
+The aerobics studio needs ventilation.,fan_on
+Activate the boxing gym fan.,fan_on
+The martial arts dojo needs cooling.,fan_on
+Turn on the fan in the meditation space.,fan_on
+The stretching area is getting warm.,fan_on
+Please start the fan in the locker room.,fan_on
+The changing area needs air flow.,fan_on
+Activate the fan in the sauna cooldown room.,fan_on
+The massage room needs circulation.,fan_on
+Turn on the fan in the recovery area.,fan_on
+The physical therapy room is warm.,fan_on
+Please activate the fan in the sports medicine office.,fan_on
+The rehabilitation center needs air movement.,fan_on
+Turn off the fitness studio fan.,fan_off
+The CrossFit area needs fan disabled.,fan_off
+Please stop the yoga room ventilation.,fan_off
+The pilates studio fan can be turned off.,fan_off
+Deactivate the cardio zone fan.,fan_off
+The weight room fan needs to stop.,fan_off
+Could you switch off the spinning room fan?,fan_off
+The aerobics studio fan can be disabled.,fan_off
+Turn off the boxing gym ventilation.,fan_off
+The martial arts dojo fan is not needed.,fan_off
+"It's cold in the examination room, heat needed.",heater_on
+Please warm up the consultation space.,heater_on
+The patient waiting area needs heating.,heater_on
+Turn on the treatment room heater.,heater_on
+The therapy space is too cold.,heater_on
+Activate the recovery room heating.,heater_on
+The rehabilitation area needs warmth.,heater_on
+Please start the physiotherapy room heater.,heater_on
+The medical storage needs temperature control.,heater_on
+Turn on the clinic room heating.,heater_on
+The examination room is warm enough.,heater_off
+Please turn off the consultation space heater.,heater_off
+Stop heating the patient waiting area.,heater_off
+The treatment room is too warm.,heater_off
+Deactivate the therapy space heater.,heater_off
+The recovery room heating can be stopped.,heater_off
+Please disable the rehabilitation area heater.,heater_off
+The physiotherapy room is comfortable now.,heater_off
+Turn off the medical storage heating.,heater_off
+The clinic room heater should be off.,heater_off
+Power up the conference room equipment.,multiplug_on
+Please activate the boardroom power strip.,multiplug_on
+The presentation area needs power.,multiplug_on
+Turn on the meeting room multiplug.,multiplug_on
+The training room devices need power.,multiplug_on
+Activate the seminar space power strip.,multiplug_on
+The lecture hall needs electricity.,multiplug_on
+Please enable the classroom power.,multiplug_on
+The educational lab needs power access.,multiplug_on
+Turn on the computer lab power strip.,multiplug_on
+Power down the conference room equipment.,multiplug_off
+Please deactivate the boardroom power strip.,multiplug_off
+The presentation area power can be off.,multiplug_off
+Turn off the meeting room multiplug.,multiplug_off
+The training room power should be disabled.,multiplug_off
+Switch off the seminar space power strip.,multiplug_off
+The lecture hall power can be turned off.,multiplug_off
+Please disable the classroom power.,multiplug_off
+The educational lab power should be off.,multiplug_off
+Turn off the computer lab power strip.,multiplug_off
+Can you turn on the daycare TV?,tv_on
+The children's playroom needs the television.,tv_on
+Please activate the nursery display.,tv_on
+Turn on the kids' entertainment screen.,tv_on
+The youth room TV should be on.,tv_on
+Activate the preschool room television.,tv_on
+The toddler area needs the TV on.,tv_on
+Please turn on the learning center display.,tv_on
+The activity room needs the television.,tv_on
+Switch on the play area TV.,tv_on
+The daycare TV can be turned off now.,tv_off
+Please switch off the children's playroom TV.,tv_off
+The nursery display should be disabled.,tv_off
+Turn off the kids' entertainment screen.,tv_off
+The youth room doesn't need TV anymore.,tv_off
+Deactivate the preschool room television.,tv_off
+The toddler area TV can be switched off.,tv_off
+Please turn off the learning center display.,tv_off
+The activity room TV should be off.,tv_off
+Power down the play area television.,tv_off
+The art gallery needs better lighting.,light_on
+Please illuminate the exhibition space.,light_on
+Turn on the sculpture room lights.,light_on
+The painting studio needs brightness.,light_on
+Activate the pottery workshop lighting.,light_on
+The ceramics room is too dark.,light_on
+Please turn on the drawing studio lights.,light_on
+The printmaking area needs illumination.,light_on
+Switch on the gallery track lighting.,light_on
+The installation space needs light.,light_on
+Turn off the art gallery lights.,light_off
+The exhibition space can go dark.,light_off
+Please dim the sculpture room.,light_off
+The painting studio lights should be off.,light_off
+Deactivate the pottery workshop lighting.,light_off
+The ceramics room needs darkness.,light_off
+Switch off the drawing studio lights.,light_off
+The printmaking area can be darkened.,light_off
+Please turn off the gallery track lights.,light_off
+The installation space lighting can stop.,light_off
+The server room is getting warm.,ac_on
+Please cool down the IT equipment room.,ac_on
+The data center needs air conditioning.,ac_on
+Turn on the network room AC.,ac_on
+The computer lab is too hot.,ac_on
+Activate cooling in the tech space.,ac_on
+The equipment room needs temperature control.,ac_on
+Please start the server rack cooling.,ac_on
+The telecommunications room needs AC.,ac_on
+Cool down the hardware storage.,ac_on
+The server room is cool enough.,ac_off
+Please turn off the IT equipment room AC.,ac_off
+Stop cooling the data center.,ac_off
+The network room AC can be switched off.,ac_off
+Deactivate the computer lab cooling.,ac_off
+Turn off the tech space AC.,ac_off
+The equipment room is comfortable now.,ac_off
+Please stop the server rack cooling.,ac_off
+The telecommunications room is cool enough.,ac_off
+Switch off the hardware storage AC.,ac_off
+Deactivate the TV in the office.,tv_off
+Can you flip the switch to Turn off the TV?,tv_off
+Please Turn off the TV in the living room.,tv_off
+Can you Deactivate the television?,tv_off
+Turn on the multiplug in the bedroom.,multiplug_on
+Can you switch on the multiplug in the living room?,multiplug_on
+"It's time to power up, activate the multiplug.",multiplug_on
+Can you activate the power strip in the office?,multiplug_on
+"I want to charge my devices, switch on the multiplug.",multiplug_on
+"It's time to connect, turn on the multiplug.",multiplug_on
+Turn on the multiplug in the hallway.,multiplug_on
+Activate the multiplug in the office.,multiplug_on
+Can you Activate the power strip?,multiplug_on
+Please Turn on the power outlet in the kitchen.,multiplug_on
+Can you Activate the electrical outlet?,multiplug_on
+Light up the living room,light_on
+Activate the heater in the office.,heater_on
+Please Turn on the space heater in the living room.,heater_on
+Can you warm up this room?,heater_on
+Deactivate the heater in the office.,heater_off
+Can you adjust the thermostat to Turn off the heater?,heater_off
+Please Turn off the space heater in the living room.,heater_off
+"Set the heater to 20 degrees, please.",heater_off
+Can you increase the heater temperature?,heater_on
+Turn on the water heater.,heater_on
+Turn off the water heater.,heater_off
+Turn on the heater when the temperature drops below 18 degrees.,heater_on
+Can you switch on the heater in the living room?,heater_on
+I want to feel warmer in the office.,heater_on
+"It's cold, activate the heater.",heater_on
+Can you adjust the thermostat to heat the bathroom?,heater_on
+Switch on the heater in the hallway.,heater_on
+Can you switch off the heater in the living room?,heater_off
+I want to lower the temperature in the office.,heater_off
+"It's too hot, deactivate the heater.",heater_off
+Switch off the heater in the hallway.,heater_off
+Can you activate the heater and adjust the temperature to 70 degrees?,heater_on
+Can you turn on the heater and set the temperature to 75 degrees?,heater_on
+Can you turn on the heater and set the temperature to 70 degrees?,heater_on
+I need better visibility in the garage.,light_on
+Make the bedroom lights brighter.,light_on
+Can you adjust the brightness of the hallway lights?,light_on
+Turn on the outdoor lights.,light_on
+Turn on the lights in the garage when I arrive.,light_on
+Turn on the lights in the living room at 6 pm.,light_on
+Please switch on the ceiling lights in the dining room.,light_on
+I need some light in the bathroom.,light_on
+Activate the lighting in the guest room.,light_on
+Time to brighten things up in the garage.,light_on
+Turn on the overhead lights.,light_on
+Can you illuminate this area?,light_on
+Please Turn on the lights in the foyer.,light_on
+Can you provide some illumination in the study?,light_on
+I want to see better in the dining room.,light_on
+Please switch on the lights in the hallway and turn off the lights in the bedroom.,light_on
+Please activate the lights in the study and turn off the lights in the living room.,light_on
+"Can you turn on the vent, it's stuffy in here?",vent_on
+Turn off the overhead lights.,light_off
+Can you Turn off the lights in the foyer?,light_off
+Can you Turn on the exhaust fan in the bathroom?,vent_on
+Activate the ventilation system.,vent_on
+Activate the TV in the office.,tv_on
+Please Turn on the TV in the living room.,tv_on
+Can you Activate the television?,tv_on
+Can you turn on the ventilation in the kitchen?,vent_on
+"It's stuffy in the office, turn on the vent.",vent_on
+Time to circulate some air in the basement.,vent_on
+Switch on the vent in the laundry room.,vent_on
+"t's time to turn on the TV in the garage workshop, please.",tv_on
+"t's late, please turn off the lights.",light_off
+"t's stuffy in here, turn on the vent.",vent_on
+Can you deactivate the vent in the storage room,vent_off
+Deactivate the vent in the basement,vent_off
+"Deactivate the vent in the basement, please",vent_off
+Deactivate the vent in the laundry room,vent_off
+Deactivate the ventilation in the guest bathroom,vent_off
+"I need to stop circulating the air, turn off the vent",vent_off
+"I want to stop ventilating the space, turn off the vent",vent_off
+I'd like to turn off the vent in the attic,vent_off
+I'd like to turn off the vent in the bathroom,vent_off
+I'd like to turn off the vent in the workshop,vent_off
+"It's breezy now, please turn off the vent",vent_off
+"It's dry, turn off the vent to retain moisture",vent_off
+It's time to turn off the vent in the closet,vent_off
+It's time to turn off the vent in the garage,vent_off
+"It's time to turn off the vent in the garage workshop, please",vent_off
+"It's time to turn off the vent, the air is fresh",vent_off
+Please deactivate the vent in the guest room,vent_off
+Please deactivate the ventilation in the kitchen,vent_off
+Please turn off the vent in the laundry room,vent_off
+Switch off the vent in the guest room,vent_off
+"Switch off the vent, it's becoming too breezy",vent_off
+"Time to stop circulating air, turn off the vent",vent_off
+Turn off the vent in the bathroom,vent_off
+Turn off the vent in the dining room,vent_off
+"Turn off the vent in the pantry, please",vent_off
+"Turn off the ventilation, it's too windy",vent_off
+Can you deactivate the vent in the garage? It's getting too windy,vent_off
+"Can you deactivate the vent, please? The room feels too breezy",vent_off
+Can you switch off the vent in the attic? It's too breezy up there,vent_off
+"Can you turn off the vent, please? The air is moving too much",vent_off
+Could you please deactivate the vent? The room feels too windy,vent_off
+Could you please turn off the vent? I'm feeling cold,vent_off
+Could you please turn off the vent? The air feels too windy,vent_off
+Could you please turn off the vent? The air is too dry,vent_off
+Deactivate the vent in the kitchen,vent_off
+Deactivate the vent in the study,vent_off
+Deactivate the ventilation in the kitchen,vent_off
+I don't need any more ventilation,vent_off
+"I don't need the vent on anymore, please turn it off",vent_off
+"I don't need to ventilate this room, turn off the vent",vent_off
+"I want to keep the air in this room, turn off the vent",vent_off
+I want to reduce the airflow. Please turn off the vent,vent_off
+I want to retain moisture in the room,vent_off
+I want to stop the air circulation,vent_off
+I want to stop the airflow. Please turn off the vent,vent_off
+I want to stop ventilating the attic,vent_off
+I want to stop ventilating the bathroom,vent_off
+I want to stop ventilating the den,vent_off
+I want to stop ventilating the patio,vent_off
+I want to stop ventilating the room,vent_off
+"I want to stop ventilating the room, turn off the vent",vent_off
+I want to stop ventilating the room. Turn off the vent,vent_off
+I'm feeling a bit cold now,vent_off
+"I'm feeling a little cold, please turn off the vent",vent_off
+"I'm not feeling stuffy anymore, turn off the vent",vent_off
+"I'm not feeling stuffy, turn off the vent",vent_off
+"I'm not feeling stuffy, turn off the vent in the basement",vent_off
+It's becoming too breezy. Switch off the vent,vent_off
+It's dry. Turn off the vent to retain moisture,vent_off
+It's getting breezy in here,vent_off
+It's getting too breezy,vent_off
+It's getting too breezy in the library,vent_off
+It's getting too cold to sleep,vent_off
+It's getting too windy in here,vent_off
+It's getting too windy outside,vent_off
+It's getting too windy to work,vent_off
+"It's getting windy in here. Turn off the vent, please",vent_off
+It's not a good smell in here. Please turn off the vent,vent_off
+"It's not stuffy anymore, please turn off the vent",vent_off
+"It's not stuffy anymore, turn off the vent in the attic",vent_off
+It's time to turn off the vent,vent_off
+"It's too breezy now, please turn off the vent",vent_off
+Let's stop circulating air,vent_off
+Let's turn off the vent,vent_off
+Let's turn off the vent in the game room,vent_off
+Let's turn off the vent in the hallway,vent_off
+Please switch off the vent. I don't need any more ventilation,vent_off
+Please switch off the vent. The room needs to be more still,vent_off
+Please turn off the vent. The room feels too drafty,vent_off
+"The air feels too dry. Turn off the vent, please",vent_off
+"The air is circulating enough, please turn off the vent",vent_off
+"The air is circulating well, please turn off the vent",vent_off
+"The air is clear enough, please turn off the vent",vent_off
+The air is too dry. Activate the vent,vent_off
+The room is getting too drafty. Please turn off the vent,vent_off
+"Turn off the vent, please",vent_off
+Turn off the ventilation in the basement,vent_off
+Turn off the ventilation in the guest room,vent_off
+"Turn off the ventilation in the office, please",vent_off
+Activate the air conditioning in the guest bathroom,ac_on
+Activate the air conditioning in the kitchen,ac_on
+Activate the air conditioning in the laundry room,ac_on
+"Activate the air conditioning in the living room, please",ac_on
+Activate the air conditioning in the office,ac_on
+"Activate the air conditioning in the office, please",ac_on
+"Cool down the bathroom, please",ac_on
+Cool down the bedroom,ac_on
+Cool down the room,ac_on
+I need a cool breeze,ac_on
+"I need some cool air, please turn on the AC",ac_on
+I need some relief from the heat,ac_on
+"I need the room to be cooler, please turn on the AC",ac_on
+"I need to cool down the space, please turn on the AC",ac_on
+"I need to cool down, please turn on the AC",ac_on
+"I need to cool down, please turn on the air conditioning",ac_on
+"I need to cool down, turn on the AC",ac_on
+"I need to cool down, turn on the air conditioning unit",ac_on
+"I need to cool off, activate the air conditioning",ac_on
+"I need to cool off, please turn on the AC",ac_on
+"I want to feel comfortable, turn on the AC",ac_on
+"I want to feel cooler, turn on the AC",ac_on
+"I want to feel refreshed, turn on the AC",ac_on
+"I want to lower the temperature, please turn on the AC",ac_on
+"I want to lower the temperature, turn on the AC",ac_on
+I'd like to turn on the AC in the attic,ac_on
+I'd like to turn on the AC in the guest room,ac_on
+I'd like to turn on the AC in the storage room,ac_on
+"I'm feeling uncomfortable, please turn on the AC",ac_on
+"I'm feeling warm, please turn on the AC",ac_on
+"It's a bit too warm, turn on the AC",ac_on
+"It's getting too warm, turn on the air conditioning",ac_on
+"It's getting unbearable, please turn on the AC",ac_on
+"It's hot in here, please cool down the space",ac_on
+"It's hot, please turn on the air conditioning",ac_on
+"It's scorching, turn on the air conditioning",ac_on
+"It's stifling, turn on the air conditioning",ac_on
+"It's sweltering outside, turn on the AC to cool down",ac_on
+"It's sweltering, turn on the AC unit",ac_on
+"It's sweltering, turn on the air conditioning unit",ac_on
+"It's time to cool down, turn on the AC",ac_on
+"It's too hot to sleep, turn on the AC",ac_on
+"It's too hot to work, please turn on the AC",ac_on
+"It's too hot to work, turn on the AC",ac_on
+"It's too hot, turn on the AC",ac_on
+"It's too warm for me, please turn on the AC",ac_on
+"It's too warm to concentrate, activate the air conditioning",ac_on
+"It's uncomfortable, please turn on the AC",ac_on
+Lower the temperature,ac_on
+Please activate the AC in the bedroom,ac_on
+Please activate the AC in the entryway,ac_on
+Please activate the AC in the garage,ac_on
+Please activate the AC in the guest room,ac_on
+Please activate the AC in the living room,ac_on
+Please activate the AC in the office,ac_on
+Please activate the AC in the playroom,ac_on
+Please cool down the house,ac_on
+Please cool down the room,ac_on
+Please switch on the AC. The heat is making me dizzy,ac_on
+Please turn on the AC in the attic,ac_on
+Please turn on the AC in the backyard,ac_on
+Please turn on the AC in the basement,ac_on
+Please turn on the AC in the hallway,ac_on
+Please turn on the AC unit,ac_on
+Please turn on the AC unit in the garage,ac_on
+"Switch on the AC in the garage workshop, please",ac_on
+Switch on the AC in the guest room,ac_on
+"Switch on the AC in the laundry room, please",ac_on
+Switch on the AC in the study,ac_on
+"Switch on the AC, I'm uncomfortable",ac_on
+"Switch on the AC, it's becoming unbearable",ac_on
+"Switch on the AC, it's getting humid",ac_on
+"Switch on the AC, it's unbearable",ac_on
+"Time to chill, turn on the AC",ac_on
+"Time to chill, turn on the air conditioning",ac_on
+"Turn on the AC in the basement, please",ac_on
+"Turn on the AC in the bedroom, please",ac_on
+"Turn on the AC in the dining room, please",ac_on
+"Turn on the AC in the hallway, please",ac_on
+"Turn on the AC in the kitchen, please",ac_on
+"Turn on the AC in the pantry, please",ac_on
+"Turn on the AC in the patio, please",ac_on
+"Turn on the AC, I'm sweating",ac_on
+"Turn on the AC, it's getting hot",ac_on
+"Turn on the AC, it's too hot to work",ac_on
+"Turn on the AC, it's too warm",ac_on
+"Turn on the AC, please",ac_on
+Turn on the air conditioning in the living room,ac_on
+Can you please activate the AC? I'm feeling unwell from the heat,ac_on
+Can you please activate the AC? It's getting hotter by the minute,ac_on
+Can you turn on the AC? It's uncomfortable in here,ac_on
+Could you please activate the AC? It's really hot in here,ac_on
+Could you please turn on the AC? I'm overheating,ac_on
+Could you please turn on the AC? It's too hot,ac_on
+"I can't stand the heat, please turn on the AC",ac_on
+"I can't take this heat, turn on the AC",ac_on
+I need the AC on. It's way too hot in here,ac_on
+"I need to cool down, turn on the AC in the attic",ac_on
+"I need to cool down, turn on the air conditioning",ac_on
+I want to lower the temperature. Turn on the AC,ac_on
+"I'm feeling uncomfortable. Turn on the AC, please",ac_on
+"I'm feeling warm. Turn on the AC, please",ac_on
+"I'm sweating, please turn on the AC",ac_on
+"I'm sweating. Turn on the AC, please",ac_on
+"It's getting hot out there, please turn on the AC",ac_on
+"It's getting hot, please turn on the AC",ac_on
+It's getting humid. Switch on the AC,ac_on
+"It's getting muggy, turn on the AC",ac_on
+"It's getting uncomfortable, turn on the air conditioning",ac_on
+It's sweltering. Turn on the air conditioning unit,ac_on
+"It's too hot to sleep, please turn on the AC",ac_on
+"It's too hot to sleep. Turn on the AC, please",ac_on
+"It's too hot, please turn on the AC",ac_on
+"It's too warm to work, turn on the AC",ac_on
+"It's too warm, please turn on the AC in the basement",ac_on
+"It's too warm, please turn on the air conditioning",ac_on
+"Please turn on the AC, it's unbearable",ac_on
+Please turn on the AC. I can't take the heat,ac_on
+The room is like an oven Please switch on the AC,ac_on
+"The room is too warm for me, turn on the AC",ac_on
+The temperature is too high. Turn on the air conditioning,ac_on
+"Time to cool off, turn on the air conditioning",ac_on
